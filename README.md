@@ -8,16 +8,16 @@ This is a Helm Chart repository for installing env0 agent on your Kubernetes clu
   
 ## Installation
 1. Add our Helm Repo
-```shell
-helm repo add env0-agent https://env0.github.io/self-hosted
-```
+    ```shell
+    helm repo add env0-agent https://env0.github.io/self-hosted
+    ```
 
 2. Update Helm Repo
-```shell
-helm repo update
-```
+    ```shell
+    helm repo update
+    ```
 
 3. Install the Helm Chart
-```shell
-helm install env0-agent env0/env0-agent --version 1.0.0 --namespace env0-keda
-```
+    ```shell
+    helm install env0-agent env0/env0-agent --version 1.0.0 --namespace env0-keda
+    ```
