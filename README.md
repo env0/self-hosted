@@ -1,5 +1,4 @@
-# env0 Agent - Helm Chart
-This is a Helm Chart repository for installing env0 agent on your Kubernetes cluster.  
+### This is a Helm Chart repository for installing env0 agent on your Kubernetes cluster.  
 
 ## Prerequisites
 - A Kubernetes cluster with autoscaler and Persistent Volume. You may use our `prerequisites` stack to deploy an EKS based solution to your AWS account, or setup your own compatible cluster elsewhere.  
