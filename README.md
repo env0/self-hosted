@@ -19,5 +19,5 @@ This is a Helm Chart repository for installing env0 agent on your Kubernetes clu
 
 3. Install the Helm Chart
     ```shell
-    helm install env0-agent env0/env0-agent --version 1.0.0 --namespace env0-keda
+    helm install env0-agent env0-agent/env0-agent --version 1.0.0 --namespace env0-keda
     ```
