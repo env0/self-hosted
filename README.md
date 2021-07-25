@@ -8,7 +8,7 @@
 ## Installation
 1. Add our Helm Repo
     ```shell
-    helm repo add env0-agent https://env0.github.io/self-hosted
+    helm repo add env0 https://env0.github.io/self-hosted
     ```
 
 2. Update Helm Repo
