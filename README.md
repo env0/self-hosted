@@ -16,7 +16,8 @@
     helm repo update
     ```
 
-3. Install the Helm Chart
+3. Install the Helm Charts
     ```shell
-    helm install env0-agent env0-agent/env0-agent --version 1.0.0 --namespace env0-keda
+    helm install env0-keda env0/keda --namespace env0-keda --create-namespace
+    helm install env0-agent env0/env0-agent
     ```
