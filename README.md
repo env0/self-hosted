@@ -19,5 +19,5 @@
 3. Install the Helm Charts
     ```shell
     helm install env0-keda env0/keda --namespace env0-keda --create-namespace
-    helm install env0-agent env0/env0-agent
+    helm install env0-agent env0/env0-agent -f values.yaml # <-- values.yaml provided to you by env0
     ```
