@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   env0-agent:
   - apiVersion: v2
+    appVersion: v2.0.64
+    created: "2021-12-07T10:17:57.998387567Z"
+    description: A Helm chart for deploying env0 agent onto Kubernetes
+    digest: 698d44d15d5cadc6e808c592810576cb7f5a5107a76c95b53b6fd5352a070851
+    name: env0-agent
+    type: application
+    urls:
+    - https://env0.github.io/self-hosted/charts/env0-agent-v2.0.64.tgz
+    version: v2.0.64
+  - apiVersion: v2
     appVersion: v2.0.63
     created: "2021-12-06T09:33:41.541804685Z"
     description: A Helm chart for deploying env0 agent onto Kubernetes
@@ -475,7 +485,7 @@ entries:
     version: 2.1.1
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2021-11-18T22:37:40.44246554Z"
+    created: "2021-11-29T12:58:55.4305337+05:30"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: 91998f9165176f972b954ef9d4077942979cb5e863bb7d76ed29c48f63533531
     home: https://github.com/kedacore/keda
@@ -535,7 +545,7 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 2.0.0-rc2
-    created: "2021-06-03T09:45:19.703784-07:00"
+    created: "2021-11-29T12:58:55.4194748+05:30"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: bad82c28c5ca1d5e69fac4bfcc7a999d5d2b2afd9b19ff6deb9a48811110eb0d
     home: https://github.com/kedacore/keda
@@ -616,7 +626,7 @@ entries:
     version: 2.0.0-beta1.2
   - apiVersion: v1
     appVersion: 2.0.0-beta
-    created: "2021-06-03T09:45:19.491845-07:00"
+    created: "2021-11-29T12:58:55.4055241+05:30"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: db9e7d2423423463285f2e9d5b940a63b41d6555ba9fcab8fda0e6a757ccefa9
     home: https://github.com/kedacore/keda
@@ -676,7 +686,7 @@ entries:
     version: 1.5.0
   - apiVersion: v1
     appVersion: 1.4.1
-    created: "2021-11-18T22:37:40.401111085Z"
+    created: "2021-11-29T12:58:55.394085+05:30"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: f8bf80186ac3343998021a1721d06a67fdacd1dab92e4a4992620903b52004a4
     home: https://github.com/kedacore/keda
@@ -712,7 +722,7 @@ entries:
     version: 1.4.1
   - apiVersion: v1
     appVersion: 1.4.0
-    created: "2021-11-18T22:37:40.393232532Z"
+    created: "2021-11-29T12:58:55.387203+05:30"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: 7b2b4e29f867361af87a60411b0a196416b04b2e20f4091d166263ea5195c355
     home: https://github.com/kedacore/keda
@@ -728,7 +738,7 @@ entries:
     version: 1.4.0
   - apiVersion: v1
     appVersion: 1.4.0
-    created: "2021-06-03T09:45:19.276505-07:00"
+    created: "2021-11-29T12:58:55.3840848+05:30"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: a9e78b6cb2257702296d7cc28ca7acdd0b11603aef7e95dbdc7d4ddfa3f3a49c
     home: https://github.com/kedacore/keda
@@ -895,4 +905,4 @@ entries:
     urls:
     - https://kedacore.github.io/charts/keda-add-ons-http-0.0.1.tgz
     version: 0.0.1
-generated: "2021-12-06T09:33:41.541198777Z"
+generated: "2021-12-07T10:17:57.996974859Z"
