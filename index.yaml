@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   env0-agent:
   - apiVersion: v2
+    appVersion: v2.0.81
+    created: "2021-12-26T06:59:32.383618642Z"
+    description: A Helm chart for deploying env0 agent onto Kubernetes
+    digest: d33c3d8e3cdc9f6e9562c83d912a8d971d651b10ad6cda11258e961c78f6a445
+    name: env0-agent
+    type: application
+    urls:
+    - https://env0.github.io/self-hosted/charts/env0-agent-v2.0.81.tgz
+    version: v2.0.81
+  - apiVersion: v2
     appVersion: v2.0.80
     created: "2021-12-23T09:39:01.99566192Z"
     description: A Helm chart for deploying env0 agent onto Kubernetes
@@ -497,11 +507,11 @@ entries:
     version: 2.1.3
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2021-06-03T09:45:19.961114-07:00"
+    created: "2021-12-20T08:47:56.20169+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: f336ab24d5ebf96d28da95a03931f2701bb44ce6bb7c30991e3ad14959e2e7e4
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -517,11 +527,11 @@ entries:
     version: 2.1.2
   - apiVersion: v2
     appVersion: 2.1.0
-    created: "2021-11-29T12:58:55.4335369+05:30"
+    created: "2021-12-20T08:47:56.1877849+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: b6e752d05797cd50ce95a96ae1b6cf8b2b87fc10c27391172beb1acd9fcb18a2
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -577,11 +587,11 @@ entries:
     version: 2.0.1
   - apiVersion: v1
     appVersion: 2.0.0
-    created: "2021-11-29T12:58:55.4224738+05:30"
+    created: "2021-12-20T08:47:56.1526026+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: dba8b0e793085165c7d155f9393c5ff112d4714dbce0201404ceb0e67d1b2deb
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -597,11 +607,11 @@ entries:
     version: 2.0.0
   - apiVersion: v1
     appVersion: 2.0.0-rc2
-    created: "2021-11-29T12:58:55.4194748+05:30"
+    created: "2021-12-20T08:47:56.1407521+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: bad82c28c5ca1d5e69fac4bfcc7a999d5d2b2afd9b19ff6deb9a48811110eb0d
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -617,11 +627,11 @@ entries:
     version: 2.0.0-rc3
   - apiVersion: v2
     appVersion: 2.0.0-rc2
-    created: "2021-06-03T09:45:19.665183-07:00"
+    created: "2021-12-20T08:47:56.1278845+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: a4042ba14e595a8e82c9a39d8987625b89292aa86029686a3603b724fda36ca0
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -638,11 +648,11 @@ entries:
     version: 2.0.0-rc2
   - apiVersion: v1
     appVersion: 2.0.0-rc
-    created: "2021-11-29T12:58:55.4125221+05:30"
+    created: "2021-12-20T08:47:56.1168631+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: 3a952f2aaa0ea35ee4335f0b168f44fcf37c5c5ab7e9b9bba7e731c42f04ad61
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -678,11 +688,11 @@ entries:
     version: 2.0.0-beta1.2
   - apiVersion: v1
     appVersion: 2.0.0-beta
-    created: "2021-11-29T12:58:55.4055241+05:30"
+    created: "2021-12-20T08:47:56.0873871+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: db9e7d2423423463285f2e9d5b940a63b41d6555ba9fcab8fda0e6a757ccefa9
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -806,11 +816,11 @@ entries:
     version: 1.3.2
   - apiVersion: v1
     appVersion: 1.3.0
-    created: "2021-08-06T10:50:33.5252783+02:00"
+    created: "2021-12-20T08:47:55.9941566+01:00"
     description: Event-based autoscaler for workloads on Kubernetes
     digest: e13bcb65816ed59b10b32fa6db8f61668635459d56c2d599bb3c0bcc5dcc1368
     home: https://github.com/kedacore/keda
-    icon: https://raw.githubusercontent.com/kedacore/keda/master/images/keda-logo-500x500-white.png
+    icon: https://raw.githubusercontent.com/kedacore/keda/main/images/keda-logo-500x500-white.png
     maintainers:
     - email: ahmels@microsoft.com
       name: Ahmed ElSayed
@@ -957,4 +967,4 @@ entries:
     urls:
     - https://kedacore.github.io/charts/keda-add-ons-http-0.0.1.tgz
     version: 0.0.1
-generated: "2021-12-23T09:39:01.995103916Z"
+generated: "2021-12-26T06:59:32.382962234Z"
