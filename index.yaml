@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   env0-agent:
   - apiVersion: v2
+    appVersion: v3.0.13
+    created: "2022-01-18T09:30:38.485933363Z"
+    description: A Helm chart for deploying env0 agent onto Kubernetes
+    digest: 0b25f30d898c397035571e5505111eb3db52b5cdc58bc0c42761da0948d326aa
+    name: env0-agent
+    type: application
+    urls:
+    - https://env0.github.io/self-hosted/charts/env0-agent-v3.0.13.tgz
+    version: v3.0.13
+  - apiVersion: v2
     appVersion: v3.0.12
     created: "2022-01-17T09:35:26.250978243Z"
     description: A Helm chart for deploying env0 agent onto Kubernetes
@@ -1037,4 +1047,4 @@ entries:
     urls:
     - https://kedacore.github.io/charts/keda-add-ons-http-0.0.1.tgz
     version: 0.0.1
-generated: "2022-01-17T09:35:26.250149652Z"
+generated: "2022-01-18T09:30:38.478594801Z"
