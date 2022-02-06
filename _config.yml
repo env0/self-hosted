@@ -1,3 +1,6 @@
 theme: jekyll-theme-cayman
 title: env0 Self-Hosted Agent
 description: An env0 agent - deployed on your own Kubernetes cluster.
+plugins:
+  - jekyll-feed
+  
