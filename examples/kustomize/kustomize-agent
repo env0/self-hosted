@@ -1,0 +1,5 @@
+#!/bin/bash
+
+cat <&0 > env0.yaml
+
+kustomize build . && rm env0.yaml

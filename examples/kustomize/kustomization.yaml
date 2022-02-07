@@ -1,0 +1,7 @@
+resources:
+  - env0.yaml
+patches:
+  - path: patch.yaml
+    target:
+      kind: Deployment
+      labelSelector: env0=agent-trigger
