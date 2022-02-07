@@ -1,4 +1,4 @@
-# Customizing env0 agent using Kustomize and Helm Post Render hooks
+# Customizing env0 agent using Kustomize and Helm Post Render
 The env0 agent externalize an a wide array of values that may be set to configure the agent.  
 We do our best to support all common configuration case-scenarios, but sometimes a more exotic or pre-released configuration is required.  
 For such advanced cases, we offer this reference example of utilizing [kustomize](https://kustomize.io/) alongside [Helm Post Rendering](https://helm.sh/docs/topics/advanced/#post-rendering) to further customize our chart.  
