@@ -7,4 +7,8 @@
 ## v3.0.80
 
 
-- Chore add waf 2 @alonnoga (#7445)
+- Chore add waf 2 @alonnoga (#7445)<br />
+## v3.0.91
+
+
+- chore: add Server Side Encryption to SQS and SNS @omry-hay (#7643)
