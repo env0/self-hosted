@@ -11,4 +11,8 @@
 ## v3.0.91
 
 
-- chore: add Server Side Encryption to SQS and SNS @omry-hay (#7643)
+- chore: add Server Side Encryption to SQS and SNS @omry-hay (#7643)<br />
+## v3.0.137
+
+
+- Fix: Send xStarted events to FIFO topic + retry them @avnerenv0 (#8034)
