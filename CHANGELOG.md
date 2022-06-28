@@ -15,4 +15,8 @@
 ## v3.0.137
 
 
-- Fix: Send xStarted events to FIFO topic + retry them @avnerenv0 (#8034)
+- Fix: Send xStarted events to FIFO topic + retry them @avnerenv0 (#8034)<br />
+## v3.0.143
+
+
+- chore support big plans @alonnoga (#8227)
