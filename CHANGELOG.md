@@ -19,4 +19,8 @@
 ## v3.0.143
 
 
-- chore support big plans @alonnoga (#8227)
+- chore support big plans @alonnoga (#8227)<br />
+## v3.0.148
+
+
+- Chore: Adjust Agent for working behind a proxy @roni-frantchi (#8371)
