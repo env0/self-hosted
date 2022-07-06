@@ -23,4 +23,8 @@
 ## v3.0.148
 
 
-- Chore: Adjust Agent for working behind a proxy @roni-frantchi (#8371)
+- Chore: Adjust Agent for working behind a proxy @roni-frantchi (#8371)<br />
+## v3.0.152
+
+
+- Add Vault details to SHAG @eranelbaz (#8455)
