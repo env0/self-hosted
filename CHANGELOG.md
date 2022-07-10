@@ -27,4 +27,8 @@
 ## v3.0.152
 
 
-- Add Vault details to SHAG @eranelbaz (#8455)
+- Add Vault details to SHAG @eranelbaz (#8455)<br />
+## v3.0.154
+
+
+- Fix: revert home mount @HeverFarber (#8501)
