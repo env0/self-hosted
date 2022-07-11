@@ -31,4 +31,9 @@
 ## v3.0.154
 
 
-- Fix: revert home mount @HeverFarber (#8501)
+- Fix: revert home mount @HeverFarber (#8501)<br />
+## v3.0.156
+
+
+- Harden pods - runAsNonRoot @roni-frantchi (#8476)
+- Feat add vault secret fetching @Wassap124 (#8462)
