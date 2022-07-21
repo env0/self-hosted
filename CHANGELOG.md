@@ -36,4 +36,8 @@
 
 
 - Harden pods - runAsNonRoot @roni-frantchi (#8476)
-- Feat add vault secret fetching @Wassap124 (#8462)
+- Feat add vault secret fetching @Wassap124 (#8462)<br />
+## v3.0.167
+
+
+- KEDA agent cleanup - remove podHistory @chpl (#8672)
