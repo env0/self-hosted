@@ -40,4 +40,8 @@
 ## v3.0.167
 
 
-- KEDA agent cleanup - remove podHistory @chpl (#8672)
+- KEDA agent cleanup - remove podHistory @chpl (#8672)<br />
+## v3.0.172
+
+
+- Feat: OIDC token (JWT) new lambda for Vault CLI integration @razbensimon (#8698)
