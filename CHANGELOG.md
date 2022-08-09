@@ -44,4 +44,8 @@
 ## v3.0.172
 
 
-- Feat: OIDC token (JWT) new lambda for Vault CLI integration @razbensimon (#8698)
+- Feat: OIDC token (JWT) new lambda for Vault CLI integration @razbensimon (#8698)<br />
+## v3.0.191
+
+
+- chore - exposing DNS record for each of our agents @eladmosh (#8833)
