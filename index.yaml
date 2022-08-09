@@ -2,6 +2,16 @@ apiVersion: v1
 entries:
   env0-agent:
   - apiVersion: v2
+    appVersion: v3.0.191
+    created: "2022-08-09T12:17:22.325205855Z"
+    description: A Helm chart for deploying env0 agent onto Kubernetes
+    digest: 920e0fb7ea5f60cd188a0dd0a5a1ac7005c00cc7d34b1c20e1cff5c8632d6f63
+    name: env0-agent
+    type: application
+    urls:
+    - https://env0.github.io/self-hosted/charts/env0-agent-v3.0.191.tgz
+    version: v3.0.191
+  - apiVersion: v2
     appVersion: v3.0.172
     created: "2022-07-27T08:35:36.618237424Z"
     description: A Helm chart for deploying env0 agent onto Kubernetes
@@ -641,4 +651,4 @@ entries:
     urls:
     - https://env0.github.io/self-hosted/charts/env0-agent-1.0.1.tgz
     version: 1.0.1
-generated: "2022-07-27T08:35:36.617122618Z"
+generated: "2022-08-09T12:17:22.324287454Z"
