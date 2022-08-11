@@ -52,4 +52,8 @@
 ## v3.0.194
 
 
+- fix - after adding DNS for API GW PRs envs occasionally throw error  @eladmosh (#8903)<br />
+## v3.0.194
+
+
 - fix - after adding DNS for API GW PRs envs occasionally throw error  @eladmosh (#8903)
