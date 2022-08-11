@@ -48,4 +48,8 @@
 ## v3.0.191
 
 
-- chore - exposing DNS record for each of our agents @eladmosh (#8833)
+- chore - exposing DNS record for each of our agents @eladmosh (#8833)<br />
+## v3.0.194
+
+
+- fix - after adding DNS for API GW PRs envs occasionally throw error  @eladmosh (#8903)
