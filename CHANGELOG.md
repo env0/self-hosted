@@ -60,4 +60,8 @@
 ## v3.0.197
 
 
-- change module-reader to deployment-servie organization-role type @Wassap124 (#8870)
+- change module-reader to deployment-servie organization-role type @Wassap124 (#8870)<br />
+## v3.0.204
+
+
+- Chore: switch lambda invocation before deletion @Wassap124 (#8984)
