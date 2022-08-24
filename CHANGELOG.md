@@ -64,4 +64,8 @@
 ## v3.0.204
 
 
-- Chore: switch lambda invocation before deletion @Wassap124 (#8984)
+- Chore: switch lambda invocation before deletion @Wassap124 (#8984)<br />
+## v3.0.206
+
+
+- Chore: Hard-coded dockerImages in agent-chart @liranfarage89 (#8861)
