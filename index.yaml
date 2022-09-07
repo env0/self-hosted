@@ -5,7 +5,7 @@ entries:
     appVersion: v3.0.206
     created: "2022-08-24T09:09:46.844043161Z"
     description: A Helm chart for deploying env0 agent onto Kubernetes
-    digest: 2bf44c3d78118774d97c4a42d1fb42032b9ab4184cf199567aa4fdedbd6c5e36
+    digest: a57e4075f6633d3fb84cdfca1606d503b3dd7b275b2fd0384ebd955e89dbd6f8
     name: env0-agent
     type: application
     urls:
