@@ -68,4 +68,8 @@
 ## v3.0.206
 
 
-- Chore: Hard-coded dockerImages in agent-chart @liranfarage89 (#8861)
+- Chore: Hard-coded dockerImages in agent-chart @liranfarage89 (#8861)<br />
+## v3.0.222
+
+
+- Chore: Make proxy vars in k8s yamls conditional @avnerenv0 (#9410)
