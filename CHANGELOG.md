@@ -72,4 +72,8 @@
 ## v3.0.222
 
 
-- Chore: Make proxy vars in k8s yamls conditional @avnerenv0 (#9410)
+- Chore: Make proxy vars in k8s yamls conditional @avnerenv0 (#9410)<br />
+## v3.0.224
+
+
+- Fix: Empty values in generated values.yaml overrides user's custom values when  @roni-frantchi (#9456)
