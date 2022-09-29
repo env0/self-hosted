@@ -76,4 +76,6 @@
 ## v3.0.224
 
 
-- Fix: Empty values in generated values.yaml overrides user's custom values when  @roni-frantchi (#9456)
+- Fix: Empty values in generated values.yaml overrides user's custom values when  @roni-frantchi (#9456)&nbsp;
+## v3.0.230
+- Stability Improvement
