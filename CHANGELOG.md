@@ -78,4 +78,8 @@
 
 - Fix: Empty values in generated values.yaml overrides user's custom values when  @roni-frantchi (#9456)&nbsp;
 ## v3.0.230
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.246
+
+
+- Chore: increase agent trigger liveness probe timeout @yaronya (#9692)
