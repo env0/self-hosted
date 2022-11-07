@@ -82,4 +82,9 @@
 ## v3.0.246
 
 
-- Chore: increase agent trigger liveness probe timeout @yaronya (#9692)
+- Chore: increase agent trigger liveness probe timeout @yaronya (#9692)&nbsp;
+## v3.0.258
+
+
+- Fix: reduce apiGW lambda permissions to per stage @liranfarage89 (#9894)
+- Fix: add an explicit dependency between API GW usage plan and API GW stage @yaronya (#9890)
