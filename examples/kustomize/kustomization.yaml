@@ -1,7 +1,12 @@
 resources:
   - env0.yaml
 patches:
-  - path: patch.yaml
+  - patch: |-
+      - op: add
+        path: "/spec/template/spec/containers/0/env/-"
+        value:
+          name: NODE_TLS_REJECT_UNAUTHORIZED
+          value: "0"
     target:
       kind: Deployment
-      labelSelector: env0=agent-trigger
+      labelSelector: env0=agent-proxy
