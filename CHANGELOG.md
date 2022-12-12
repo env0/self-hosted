@@ -87,4 +87,8 @@
 
 
 - Fix: reduce apiGW lambda permissions to per stage @liranfarage89 (#9894)
-- Fix: add an explicit dependency between API GW usage plan and API GW stage @yaronya (#9890)
+- Fix: add an explicit dependency between API GW usage plan and API GW stage @yaronya (#9890)&nbsp;
+## v3.0.293
+
+
+- Feat : Allow adding custom certificates to our agent @razbensimon (#10195)
