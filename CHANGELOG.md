@@ -91,4 +91,8 @@
 ## v3.0.293
 
 
-- Feat : Allow adding custom certificates to our agent @razbensimon (#10195)
+- Feat : Allow adding custom certificates to our agent @razbensimon (#10195)&nbsp;
+## v3.0.298
+
+
+- Chore: Node does not pickup on Custom CA certificats @avnerenv0 (#10434)
