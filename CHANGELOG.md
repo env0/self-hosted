@@ -95,4 +95,8 @@
 ## v3.0.298
 
 
-- Chore: Node does not pickup on Custom CA certificats @avnerenv0 (#10434)
+- Chore: Node does not pickup on Custom CA certificats @avnerenv0 (#10434)&nbsp;
+## v3.0.306
+
+
+- FEAT: create download code step @tomer-landesman (#10388)
