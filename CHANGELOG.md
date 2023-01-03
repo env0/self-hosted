@@ -99,4 +99,8 @@
 ## v3.0.306
 
 
-- FEAT: create download code step @tomer-landesman (#10388)
+- FEAT: create download code step @tomer-landesman (#10388)&nbsp;
+## v3.0.313
+
+
+- Chore: change download configuration version code logic to use s3 signed url (WIP feature) @ronnyorot (#10559)
