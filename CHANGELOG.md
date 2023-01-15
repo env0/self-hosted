@@ -103,4 +103,8 @@
 ## v3.0.313
 
 
-- Chore: change download configuration version code logic to use s3 signed url (WIP feature) @ronnyorot (#10559)
+- Chore: change download configuration version code logic to use s3 signed url (WIP feature) @ronnyorot (#10559)&nbsp;
+## v3.0.321
+
+
+- Chore: add remote run tables tf and attributes @ItamarMalka (#10713)
