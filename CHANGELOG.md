@@ -107,4 +107,8 @@
 ## v3.0.321
 
 
-- Chore: add remote run tables tf and attributes @ItamarMalka (#10713)
+- Chore: add remote run tables tf and attributes @ItamarMalka (#10713)&nbsp;
+## v3.0.324
+
+
+- Chore: Fix remote run tables resources deletion @ItamarMalka (#10767)
