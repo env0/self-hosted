@@ -115,4 +115,8 @@
 ## v3.0.325
 - Stability Improvement&nbsp;
 ## v3.0.351
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.355
+
+
+- Fix: deployment service API GW deployment @yaronya (#11099)
