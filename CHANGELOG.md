@@ -119,4 +119,8 @@
 ## v3.0.355
 
 
-- Fix: deployment service API GW deployment @yaronya (#11099)
+- Fix: deployment service API GW deployment @yaronya (#11099)&nbsp;
+## v3.0.358
+
+
+- Chore: warm pods @yaronya (#11054)
