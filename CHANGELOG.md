@@ -123,4 +123,8 @@
 ## v3.0.358
 
 
-- Chore: warm pods @yaronya (#11054)
+- Chore: warm pods @yaronya (#11054)&nbsp;
+## v3.0.359
+
+
+- Fix - apply network policy only to the env0 pods @chpl (#11169)
