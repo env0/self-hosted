@@ -127,4 +127,8 @@
 ## v3.0.359
 
 
-- Fix - apply network policy only to the env0 pods @chpl (#11169)
+- Fix - apply network policy only to the env0 pods @chpl (#11169)&nbsp;
+## v3.0.371
+
+
+- chore: Use new crypto common in deployment service @orr-levinger (#11302)
