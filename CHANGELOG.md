@@ -131,4 +131,8 @@
 ## v3.0.371
 
 
-- chore: Use new crypto common in deployment service @orr-levinger (#11302)
+- chore: Use new crypto common in deployment service @orr-levinger (#11302)&nbsp;
+## v3.0.378
+
+
+- Chore kms configuration @orr-levinger (#11357)
