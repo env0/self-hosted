@@ -135,4 +135,8 @@
 ## v3.0.378
 
 
-- Chore kms configuration @orr-levinger (#11357)
+- Chore kms configuration @orr-levinger (#11357)&nbsp;
+## v3.0.381
+
+
+- feat-remove-unneeded-encryption-permissions-from-self-hosted-agent-gateways @tomporat247 (#11392)
