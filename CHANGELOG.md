@@ -139,4 +139,8 @@
 ## v3.0.381
 
 
-- feat-remove-unneeded-encryption-permissions-from-self-hosted-agent-gateways @tomporat247 (#11392)
+- feat-remove-unneeded-encryption-permissions-from-self-hosted-agent-gateways @tomporat247 (#11392)&nbsp;
+## v3.0.382
+
+
+- feat-remove-old-crypto-leftovers @tomporat247 (#11410)
