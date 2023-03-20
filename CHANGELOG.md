@@ -143,4 +143,8 @@
 ## v3.0.382
 
 
+- feat-remove-old-crypto-leftovers @tomporat247 (#11410)&nbsp;
+## v3.0.382
+
+
 - feat-remove-old-crypto-leftovers @tomporat247 (#11410)
