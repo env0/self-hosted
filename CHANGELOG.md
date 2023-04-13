@@ -147,4 +147,8 @@
 ## v3.0.382
 
 
-- feat-remove-old-crypto-leftovers @tomporat247 (#11410)
+- feat-remove-old-crypto-leftovers @tomporat247 (#11410)&nbsp;
+## v3.0.399
+
+
+- Chore - handle kms 4096 bytes limit @chpl (#11536)
