@@ -151,4 +151,8 @@
 ## v3.0.399
 
 
-- Chore - handle kms 4096 bytes limit @chpl (#11536)
+- Chore - handle kms 4096 bytes limit @chpl (#11536)&nbsp;
+## v3.0.414
+
+
+- Fix: copy homedir content to the mounted volume @chpl (#11756)
