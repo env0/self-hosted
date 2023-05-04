@@ -155,4 +155,10 @@
 ## v3.0.414
 
 
-- Fix: copy homedir content to the mounted volume @chpl (#11756)
+- Fix: copy homedir content to the mounted volume @chpl (#11756)&nbsp;
+## v3.0.416
+
+
+- Fix - set security context for the init container @chpl (#11797)
+- Chore: Fix gitlab enterprise base url suffix helm parameter name @ItamarMalka (#11794)
+- chore: add deployment affinity helm value @orr-levinger (#11772)
