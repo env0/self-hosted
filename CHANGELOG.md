@@ -161,4 +161,8 @@
 
 - Fix - set security context for the init container @chpl (#11797)
 - Chore: Fix gitlab enterprise base url suffix helm parameter name @ItamarMalka (#11794)
-- chore: add deployment affinity helm value @orr-levinger (#11772)
+- chore: add deployment affinity helm value @orr-levinger (#11772)&nbsp;
+## v3.0.419
+
+
+- feat-empty-helm-deployment-handler @tomporat247 (#11825)
