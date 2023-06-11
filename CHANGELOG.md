@@ -165,4 +165,6 @@
 ## v3.0.419
 
 
-- feat-empty-helm-deployment-handler @tomporat247 (#11825)
+- feat-empty-helm-deployment-handler @tomporat247 (#11825)&nbsp;
+## v3.0.444
+- Stability Improvement
