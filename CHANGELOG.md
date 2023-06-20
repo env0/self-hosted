@@ -167,4 +167,8 @@
 
 - feat-empty-helm-deployment-handler @tomporat247 (#11825)&nbsp;
 ## v3.0.444
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.452
+
+
+- Fix: Self-hosted agent running with RO root FS has empty home dir @chpl (#12321)
