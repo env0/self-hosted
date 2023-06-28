@@ -171,4 +171,6 @@
 ## v3.0.452
 
 
-- Fix: Self-hosted agent running with RO root FS has empty home dir @chpl (#12321)
+- Fix: Self-hosted agent running with RO root FS has empty home dir @chpl (#12321)&nbsp;
+## v3.0.458
+- Stability Improvement
