@@ -173,4 +173,8 @@
 
 - Fix: Self-hosted agent running with RO root FS has empty home dir @chpl (#12321)&nbsp;
 ## v3.0.458
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.459
+
+
+- Chore: set deployment queue message timeout @yaronya (#12425)
