@@ -177,4 +177,6 @@
 ## v3.0.459
 
 
-- Chore: set deployment queue message timeout @yaronya (#12425)
+- Chore: set deployment queue message timeout @yaronya (#12425)&nbsp;
+## v3.0.473
+- Stability Improvement
