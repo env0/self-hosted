@@ -179,4 +179,10 @@
 
 - Chore: set deployment queue message timeout @yaronya (#12425)&nbsp;
 ## v3.0.473
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.475
+
+
+- feat: use enctyption-key to read state by decrypting @yarivg (#12565)
+- feat: use ENV0_STATE_ENCRYPTION_KEY to encrypt uploaded state. @igalklebanov (#12559)
+- Chore: Update helm chart readme @yaronya (#12586)
