@@ -185,4 +185,8 @@
 
 - feat: use enctyption-key to read state by decrypting @yarivg (#12565)
 - feat: use ENV0_STATE_ENCRYPTION_KEY to encrypt uploaded state. @igalklebanov (#12559)
-- Chore: Update helm chart readme @yaronya (#12586)
+- Chore: Update helm chart readme @yaronya (#12586)&nbsp;
+## v3.0.481
+
+
+- feat docker agent env file @alonnoga (#12556)
