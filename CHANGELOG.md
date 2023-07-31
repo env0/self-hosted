@@ -189,4 +189,8 @@
 ## v3.0.481
 
 
-- feat docker agent env file @alonnoga (#12556)
+- feat docker agent env file @alonnoga (#12556)&nbsp;
+## v3.0.488
+
+
+- Chore: add new IAM access key and API GW key to TF agent stack @yaronya (#12731)
