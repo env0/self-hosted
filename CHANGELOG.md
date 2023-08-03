@@ -193,4 +193,6 @@
 ## v3.0.488
 
 
-- Chore: add new IAM access key and API GW key to TF agent stack @yaronya (#12731)
+- Chore: add new IAM access key and API GW key to TF agent stack @yaronya (#12731)&nbsp;
+## v3.0.495
+- Stability Improvement
