@@ -195,4 +195,8 @@
 
 - Chore: add new IAM access key and API GW key to TF agent stack @yaronya (#12731)&nbsp;
 ## v3.0.495
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.497
+
+
+- Chore docker agent pr improvments @GiliFaroEnv0 (#12763)
