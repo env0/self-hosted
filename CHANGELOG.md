@@ -199,4 +199,9 @@
 ## v3.0.497
 
 
-- Chore docker agent pr improvments @GiliFaroEnv0 (#12763)
+- Chore docker agent pr improvments @GiliFaroEnv0 (#12763)&nbsp;
+## v3.0.501
+
+
+- return s3 permissions for saas for warm pods @alonnoga (#12817)
+- chore change s3 state path and limit access per stage @alonnoga (#12758)
