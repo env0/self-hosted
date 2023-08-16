@@ -210,4 +210,10 @@
 
 - Chore: Upgrade  prerequisites EKS cluster @liranfarage89 (#12726)
 - Feat: create new SaaS agent on new EKS cluster, same Persistent Volume @liranfarage89 (#12769)
+- chore remove saas s3 access @alonnoga (#12824)&nbsp;
+## v3.0.505
+
+
+- Chore: Upgrade  prerequisites EKS cluster @liranfarage89 (#12726)
+- Feat: create new SaaS agent on new EKS cluster, same Persistent Volume @liranfarage89 (#12769)
 - chore remove saas s3 access @alonnoga (#12824)
