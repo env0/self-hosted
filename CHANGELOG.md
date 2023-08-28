@@ -220,4 +220,8 @@
 ## v3.0.510
 - Stability Improvement&nbsp;
 ## v3.0.510
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.514
+
+
+- Chore: Add  New Chart Config: Logger (format, level), Proxy-limits, imagePullPolicy @liranfarage89 (#12929)
