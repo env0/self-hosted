@@ -224,4 +224,8 @@
 ## v3.0.514
 
 
-- Chore: Add  New Chart Config: Logger (format, level), Proxy-limits, imagePullPolicy @liranfarage89 (#12929)
+- Chore: Add  New Chart Config: Logger (format, level), Proxy-limits, imagePullPolicy @liranfarage89 (#12929)&nbsp;
+## v3.0.515
+
+
+- chore add lumigo logging @amit-alkobi-env0 (#12948)
