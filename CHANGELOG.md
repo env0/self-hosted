@@ -228,4 +228,8 @@
 ## v3.0.515
 
 
-- chore add lumigo logging @amit-alkobi-env0 (#12948)
+- chore add lumigo logging @amit-alkobi-env0 (#12948)&nbsp;
+## v3.0.520
+
+
+- Chore: Allow configuring agent proxy's log level and log forma @GiliFaroEnv0 (#13021)
