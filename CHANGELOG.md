@@ -236,4 +236,8 @@
 ## v3.0.522
 
 
+- Enable delete protection on all DDB tables @roni-frantchi (#13042)&nbsp;
+## v3.0.522
+
+
 - Enable delete protection on all DDB tables @roni-frantchi (#13042)
