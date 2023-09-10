@@ -232,4 +232,8 @@
 ## v3.0.520
 
 
-- Chore: Allow configuring agent proxy's log level and log forma @GiliFaroEnv0 (#13021)
+- Chore: Allow configuring agent proxy's log level and log forma @GiliFaroEnv0 (#13021)&nbsp;
+## v3.0.522
+
+
+- Enable delete protection on all DDB tables @roni-frantchi (#13042)
