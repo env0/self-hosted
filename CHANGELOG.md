@@ -240,4 +240,8 @@
 ## v3.0.522
 
 
-- Enable delete protection on all DDB tables @roni-frantchi (#13042)
+- Enable delete protection on all DDB tables @roni-frantchi (#13042)&nbsp;
+## v3.0.525
+
+
+- Remove iac references to crypto password @weinguy-env0 (#13090)
