@@ -252,4 +252,8 @@
 ## v3.0.526
 
 
-- Chore: Allow configuring agent proxy's resources request @GiliFaroEnv0 (#13108)
+- Chore: Allow configuring agent proxy's resources request @GiliFaroEnv0 (#13108)&nbsp;
+## v3.0.529
+
+
+- Fix: Agent Helm chart typo causes @roni-frantchi (#13148)
