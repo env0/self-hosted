@@ -256,4 +256,8 @@
 ## v3.0.529
 
 
-- Fix: Agent Helm chart typo causes @roni-frantchi (#13148)
+- Fix: Agent Helm chart typo causes @roni-frantchi (#13148)&nbsp;
+## v3.0.530
+
+
+- Fix: Helm chart installation fails when providing proxy resources.requests @roni-frantchi (#13149)
