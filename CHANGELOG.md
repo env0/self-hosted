@@ -260,4 +260,8 @@
 ## v3.0.530
 
 
-- Fix: Helm chart installation fails when providing proxy resources.requests @roni-frantchi (#13149)
+- Fix: Helm chart installation fails when providing proxy resources.requests @roni-frantchi (#13149)&nbsp;
+## v3.0.535
+
+
+- Chore : remove epsagon @GiliFaroEnv0 (#13131)
