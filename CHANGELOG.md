@@ -264,4 +264,8 @@
 ## v3.0.535
 
 
+- Chore : remove epsagon @GiliFaroEnv0 (#13131)&nbsp;
+## v3.0.535
+
+
 - Chore : remove epsagon @GiliFaroEnv0 (#13131)
