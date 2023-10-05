@@ -268,4 +268,8 @@
 ## v3.0.535
 
 
-- Chore : remove epsagon @GiliFaroEnv0 (#13131)
+- Chore : remove epsagon @GiliFaroEnv0 (#13131)&nbsp;
+## v3.0.547
+
+
+- Add API key id as agent gateway stack output @roni-frantchi (#13301)
