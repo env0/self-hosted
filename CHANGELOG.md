@@ -272,4 +272,8 @@
 ## v3.0.547
 
 
+- Add API key id as agent gateway stack output @roni-frantchi (#13301)&nbsp;
+## v3.0.547
+
+
 - Add API key id as agent gateway stack output @roni-frantchi (#13301)
