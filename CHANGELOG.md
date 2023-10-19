@@ -280,4 +280,8 @@
 ## v3.0.558
 
 
+- CHORE: change agent GW domain to regional API @tomer-landesman (#13449)&nbsp;
+## v3.0.558
+
+
 - CHORE: change agent GW domain to regional API @tomer-landesman (#13449)
