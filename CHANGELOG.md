@@ -284,4 +284,10 @@
 ## v3.0.558
 
 
-- CHORE: change agent GW domain to regional API @tomer-landesman (#13449)
+- CHORE: change agent GW domain to regional API @tomer-landesman (#13449)&nbsp;
+## v3.0.560
+
+
+- Chore: migrate agent-related DDB tables to be global @yaronya (#13360)
+- Add active-region table @roni-frantchi (#13455)
+- Add active region endpoint for agent @roni-frantchi (#13472)
