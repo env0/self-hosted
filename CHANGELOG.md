@@ -290,4 +290,10 @@
 
 - Chore: migrate agent-related DDB tables to be global @yaronya (#13360)
 - Add active-region table @roni-frantchi (#13455)
-- Add active region endpoint for agent @roni-frantchi (#13472)
+- Add active region endpoint for agent @roni-frantchi (#13472)&nbsp;
+## v3.0.561
+
+
+- Chore: Add agent support for efs-csi-driver static provisioning @ronnyorot (#13456)
+- Fix: shorter names for agent-related IAM resources @yaronya (#13494)
+- Stability Improvements @yaronya (#13482)
