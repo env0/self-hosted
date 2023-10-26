@@ -306,4 +306,8 @@
 ## v3.0.565
 
 
+- Chore - API GW and SaaS agent in secondary region @chpl (#13533)&nbsp;
+## v3.0.565
+
+
 - Chore - API GW and SaaS agent in secondary region @chpl (#13533)
