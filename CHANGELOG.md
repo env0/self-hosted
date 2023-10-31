@@ -310,4 +310,8 @@
 ## v3.0.565
 
 
-- Chore - API GW and SaaS agent in secondary region @chpl (#13533)
+- Chore - API GW and SaaS agent in secondary region @chpl (#13533)&nbsp;
+## v3.0.568
+
+
+- Chore: custom domain names for DR @yaronya (#13582)
