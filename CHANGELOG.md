@@ -314,4 +314,6 @@
 ## v3.0.568
 
 
-- Chore: custom domain names for DR @yaronya (#13582)
+- Chore: custom domain names for DR @yaronya (#13582)&nbsp;
+## v3.0.571
+- Stability Improvement
