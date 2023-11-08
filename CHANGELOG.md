@@ -316,4 +316,9 @@
 
 - Chore: custom domain names for DR @yaronya (#13582)&nbsp;
 ## v3.0.571
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.573
+
+
+- Chore - make TF plan of the GW faster @chpl (#13696)
+- fix: 11230 exclude saas agent from active region check @amit-alkobi-env0 (#13625)
