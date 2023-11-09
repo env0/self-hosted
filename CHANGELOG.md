@@ -321,4 +321,8 @@
 
 
 - Chore - make TF plan of the GW faster @chpl (#13696)
-- fix: 11230 exclude saas agent from active region check @amit-alkobi-env0 (#13625)
+- fix: 11230 exclude saas agent from active region check @amit-alkobi-env0 (#13625)&nbsp;
+## v3.0.576
+
+
+- Chore: support weighted DNS @yaronya (#13638)
