@@ -325,4 +325,8 @@
 ## v3.0.576
 
 
-- Chore: support weighted DNS @yaronya (#13638)
+- Chore: support weighted DNS @yaronya (#13638)&nbsp;
+## v3.0.579
+
+
+- Chore: remove old KMS key @yaronya (#13724)
