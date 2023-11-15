@@ -329,4 +329,8 @@
 ## v3.0.579
 
 
-- Chore: remove old KMS key @yaronya (#13724)
+- Chore: remove old KMS key @yaronya (#13724)&nbsp;
+## v3.0.580
+
+
+- Chore - fixes for deploying services to prod dr @chpl (#13762)
