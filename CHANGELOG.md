@@ -333,4 +333,8 @@
 ## v3.0.580
 
 
-- Chore - fixes for deploying services to prod dr @chpl (#13762)
+- Chore - fixes for deploying services to prod dr @chpl (#13762)&nbsp;
+## v3.0.584
+
+
+- Chore - no warm pods in the secondary region @chpl (#13846)
