@@ -337,4 +337,6 @@
 ## v3.0.584
 
 
-- Chore - no warm pods in the secondary region @chpl (#13846)
+- Chore - no warm pods in the secondary region @chpl (#13846)&nbsp;
+## v3.0.589
+- Stability Improvement
