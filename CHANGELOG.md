@@ -339,4 +339,8 @@
 
 - Chore - no warm pods in the secondary region @chpl (#13846)&nbsp;
 ## v3.0.589
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.599
+
+
+- Fix: possible agent list modification deadlock @yaronya (#13992)
