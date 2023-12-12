@@ -345,4 +345,6 @@
 
 - Fix: possible agent list modification deadlock @yaronya (#13992)&nbsp;
 ## v3.0.607
+- Stability Improvement&nbsp;
+## v3.0.611
 - Stability Improvement
