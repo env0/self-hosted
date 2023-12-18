@@ -351,4 +351,8 @@
 ## v3.0.611
 - Stability Improvement&nbsp;
 ## v3.0.620
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.621
+
+
+- Chore: revert API GW cache for agents APIs @yaronya (#14186)
