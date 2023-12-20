@@ -355,4 +355,9 @@
 ## v3.0.621
 
 
-- Chore: revert API GW cache for agents APIs @yaronya (#14186)
+- Chore: revert API GW cache for agents APIs @yaronya (#14186)&nbsp;
+## v3.0.623
+
+
+- Chore - jobHistoryLimit defaults in the values.yaml @chpl (#14204)
+- Fix: API gateway no integration defined @Yossi-kerner (#14182)
