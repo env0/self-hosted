@@ -360,4 +360,8 @@
 
 
 - Chore - jobHistoryLimit defaults in the values.yaml @chpl (#14204)
-- Fix: API gateway no integration defined @Yossi-kerner (#14182)
+- Fix: API gateway no integration defined @Yossi-kerner (#14182)&nbsp;
+## v3.0.631
+
+
+- Feature: allow using User-Managed identity for Azure @sagilaufer1992 (#14270)
