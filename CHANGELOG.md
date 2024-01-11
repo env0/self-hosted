@@ -364,4 +364,8 @@
 ## v3.0.631
 
 
-- Feature: allow using User-Managed identity for Azure @sagilaufer1992 (#14270)
+- Feature: allow using User-Managed identity for Azure @sagilaufer1992 (#14270)&nbsp;
+## v3.0.640
+
+
+- Chore: Add karpenter do-not-evict annotation for scaled-job @avnerenv0 (#14461)
