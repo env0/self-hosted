@@ -368,4 +368,8 @@
 ## v3.0.640
 
 
-- Chore: Add karpenter do-not-evict annotation for scaled-job @avnerenv0 (#14461)
+- Chore: Add karpenter do-not-evict annotation for scaled-job @avnerenv0 (#14461)&nbsp;
+## v3.0.646
+
+
+- Add additional annotations and env vars to values @roni-frantchi (#14507)
