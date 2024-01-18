@@ -372,4 +372,8 @@
 ## v3.0.646
 
 
-- Add additional annotations and env vars to values @roni-frantchi (#14507)
+- Add additional annotations and env vars to values @roni-frantchi (#14507)&nbsp;
+## v3.0.650
+
+
+- Chore: helm agent annotations @away168 (#14529)
