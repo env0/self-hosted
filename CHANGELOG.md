@@ -376,4 +376,8 @@
 ## v3.0.650
 
 
+- Chore: helm agent annotations @away168 (#14529)&nbsp;
+## v3.0.650
+
+
 - Chore: helm agent annotations @away168 (#14529)
