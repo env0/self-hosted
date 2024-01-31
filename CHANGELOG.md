@@ -384,4 +384,8 @@
 ## v3.0.652
 
 
-- Chore - delete kinesis @weinguy-env0 (#14467)
+- Chore - delete kinesis @weinguy-env0 (#14467)&nbsp;
+## v3.0.663
+
+
+- Chore - stricter security context @chpl (#14696)
