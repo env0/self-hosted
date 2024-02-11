@@ -388,4 +388,8 @@
 ## v3.0.663
 
 
-- Chore - stricter security context @chpl (#14696)
+- Chore - stricter security context @chpl (#14696)&nbsp;
+## v3.0.673
+
+
+- chore: fix quoting logic for additional env vars @away168 (#14784)
