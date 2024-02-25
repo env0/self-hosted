@@ -400,4 +400,8 @@
 ## v3.0.673
 
 
-- chore: fix quoting logic for additional env vars @away168 (#14784)
+- chore: fix quoting logic for additional env vars @away168 (#14784)&nbsp;
+## v3.0.683
+
+
+- feat: add secrets and secret mounts @away168 (#14903)
