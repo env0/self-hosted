@@ -412,4 +412,8 @@
 ## v3.0.686
 
 
-- feat add helm config for provider caching ( network mirror in tfrc ) @alonnoga (#14828)
+- feat add helm config for provider caching ( network mirror in tfrc ) @alonnoga (#14828)&nbsp;
+## v3.0.689
+
+
+- Feat: Vault OIDC authentication for secrets @liranfarage89 (#14920)
