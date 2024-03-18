@@ -416,4 +416,8 @@
 ## v3.0.689
 
 
-- Feat: Vault OIDC authentication for secrets @liranfarage89 (#14920)
+- Feat: Vault OIDC authentication for secrets @liranfarage89 (#14920)&nbsp;
+## v3.0.703
+
+
+- Fix: Add kubernetes path to login @liranfarage89 (#15150)
