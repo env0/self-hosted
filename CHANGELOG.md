@@ -420,4 +420,8 @@
 ## v3.0.703
 
 
+- Fix: Add kubernetes path to login @liranfarage89 (#15150)&nbsp;
+## v3.0.703
+
+
 - Fix: Add kubernetes path to login @liranfarage89 (#15150)
