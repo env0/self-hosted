@@ -425,3 +425,8 @@
 
 
 - Feat: Handle multiple approval policies in deployment @liranfarage89 (#15163)
+&nbsp;
+## v3.0.706
+
+
+- Feat: Handle multiple approval policies in deployment @liranfarage89 (#15163)
