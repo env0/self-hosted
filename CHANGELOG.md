@@ -750,4 +750,8 @@
 
 
 - Chore: Add CA certificates to the trigger pod @RLRabinowitz (#18027)
-- Chore: module usage - resolve modules @sagilaufer1992 (#17956)
+- Chore: module usage - resolve modules @sagilaufer1992 (#17956)&nbsp;
+## v3.0.998
+
+
+- Chore: support multiple install ids for GHE @HeverFarber (#18104)
