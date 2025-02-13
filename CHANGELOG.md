@@ -758,4 +758,6 @@
 ## v3.0.998
 
 
-- Chore: support multiple install ids for GHE @HeverFarber (#18104)
+- Chore: support multiple install ids for GHE @HeverFarber (#18104)&nbsp;
+## v3.0.1006
+- Stability Improvement
