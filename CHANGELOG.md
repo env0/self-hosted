@@ -772,4 +772,8 @@
 ## v3.0.1009
 
 
+- Add agent additional env vars @eranelbaz (#18247)&nbsp;
+## v3.0.1009
+
+
 - Add agent additional env vars @eranelbaz (#18247)
