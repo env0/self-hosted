@@ -768,4 +768,8 @@
 ## v3.0.1006
 - Stability Improvement&nbsp;
 ## v3.0.1006
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.1009
+
+
+- Add agent additional env vars @eranelbaz (#18247)
