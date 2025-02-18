@@ -776,4 +776,8 @@
 ## v3.0.1009
 
 
-- Add agent additional env vars @eranelbaz (#18247)
+- Add agent additional env vars @eranelbaz (#18247)&nbsp;
+## v3.0.1010
+
+
+- Chore: load primary region state once to avoid tf plan failures @ItamarMalka (#18211)
