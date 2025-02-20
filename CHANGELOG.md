@@ -792,4 +792,8 @@
 ## v3.0.1010
 
 
-- Chore: load primary region state once to avoid tf plan failures @ItamarMalka (#18211)
+- Chore: load primary region state once to avoid tf plan failures @ItamarMalka (#18211)&nbsp;
+## v3.0.1012
+
+
+- Chore: Add custom env0 labels to the deployment pod @yaronya (#18273)
