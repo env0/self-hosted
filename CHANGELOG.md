@@ -796,4 +796,8 @@
 ## v3.0.1012
 
 
-- Chore: Add custom env0 labels to the deployment pod @yaronya (#18273)
+- Chore: Add custom env0 labels to the deployment pod @yaronya (#18273)&nbsp;
+## v3.0.1013
+
+
+- Chore add an endpoint to update the deployment log from the agent @alonnoga (#18266)
