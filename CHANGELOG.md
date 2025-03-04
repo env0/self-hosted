@@ -808,4 +808,8 @@
 ## v3.0.1013
 
 
-- Chore add an endpoint to update the deployment log from the agent @alonnoga (#18266)
+- Chore add an endpoint to update the deployment log from the agent @alonnoga (#18266)&nbsp;
+## v3.0.1021
+
+
+- Chore: rotate assumer access key @Wassap124 (#18393)
