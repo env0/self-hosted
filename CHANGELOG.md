@@ -824,4 +824,8 @@
 ## v3.0.1024
 - Stability Improvement&nbsp;
 ## v3.0.1024
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v3.0.1027
+
+
+- Chore add lambda to get last apply deployment data in agent @alonnoga (#18449)
