@@ -828,4 +828,8 @@
 ## v3.0.1027
 
 
-- Chore add lambda to get last apply deployment data in agent @alonnoga (#18449)
+- Chore add lambda to get last apply deployment data in agent @alonnoga (#18449)&nbsp;
+## v3.0.1044
+
+
+- Chore: Add manage-pull-request lambda @sagydr (#18578)
