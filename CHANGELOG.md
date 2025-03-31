@@ -832,4 +832,8 @@
 ## v3.0.1044
 
 
-- Chore: Add manage-pull-request lambda @sagydr (#18578)
+- Chore: Add manage-pull-request lambda @sagydr (#18578)&nbsp;
+## v3.0.1053
+
+
+- Chore: Adding new GetGitToken lambda accessible from the GW @sagydr (#18653)
