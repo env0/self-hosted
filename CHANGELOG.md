@@ -844,4 +844,8 @@
 ## v3.0.1058
 
 
+- Chore: Invoke AI model thru built in prompts @sagydr (#18692)&nbsp;
+## v3.0.1058
+
+
 - Chore: Invoke AI model thru built in prompts @sagydr (#18692)
