@@ -836,4 +836,8 @@
 ## v3.0.1053
 
 
-- Chore: Adding new GetGitToken lambda accessible from the GW @sagydr (#18653)
+- Chore: Adding new GetGitToken lambda accessible from the GW @sagydr (#18653)&nbsp;
+## v3.0.1058
+
+
+- Chore: Invoke AI model thru built in prompts @sagydr (#18692)
