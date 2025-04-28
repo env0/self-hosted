@@ -848,4 +848,8 @@
 ## v3.0.1058
 
 
-- Chore: Invoke AI model thru built in prompts @sagydr (#18692)
+- Chore: Invoke AI model thru built in prompts @sagydr (#18692)&nbsp;
+## v3.0.1074
+
+
+- Add configuration that allows the user to block all destroy and task commands in the agent @yarden-fishler-dev (#18852)
