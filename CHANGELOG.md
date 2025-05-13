@@ -860,4 +860,8 @@
 ## v3.0.1074
 
 
-- Add configuration that allows the user to block all destroy and task commands in the agent @yarden-fishler-dev (#18852)
+- Add configuration that allows the user to block all destroy and task commands in the agent @yarden-fishler-dev (#18852)&nbsp;
+## v3.0.1082
+
+
+- Fix: use a different PVC mount for the cache @GiliFaroEnv0 (#18890)
