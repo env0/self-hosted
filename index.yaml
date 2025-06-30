@@ -2,6 +2,22 @@ apiVersion: v1
 entries:
   env0-agent:
   - apiVersion: v2
+    appVersion: v3.0.1114
+    created: "2025-06-30T11:55:36.813481201Z"
+    dependencies:
+    - alias: iac-binaries-proxy
+      condition: iac-binaries-proxy.enabled
+      name: nginx
+      repository: https://charts.bitnami.com/bitnami
+      version: 20.1.4
+    description: A Helm chart for deploying env0 agent onto Kubernetes
+    digest: 40de6729e334c346165e508fab0317cda57bf34c6be1586d40fdaded9170437f
+    name: env0-agent
+    type: application
+    urls:
+    - https://env0.github.io/self-hosted/charts/env0-agent-v3.0.1114.tgz
+    version: v3.0.1114
+  - apiVersion: v2
     appVersion: v3.0.1093
     created: "2025-05-27T11:24:44.383190386Z"
     description: A Helm chart for deploying env0 agent onto Kubernetes
@@ -1981,4 +1997,4 @@ entries:
     urls:
     - https://env0.github.io/self-hosted/charts/env0-agent-1.0.1.tgz
     version: 1.0.1
-generated: "2025-05-27T11:24:44.382180219Z"
+generated: "2025-06-30T11:55:36.806769464Z"
