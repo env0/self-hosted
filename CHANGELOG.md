@@ -872,4 +872,8 @@
 ## v3.0.1093
 
 
-- add to missed value to schema json @eranelbaz (#19028)
+- add to missed value to schema json @eranelbaz (#19028)&nbsp;
+## v3.0.1114
+
+
+- Chore - additionalPodConfig on agent-proxy and agent-trigger @chpl (#19188)
