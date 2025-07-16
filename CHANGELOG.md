@@ -876,4 +876,6 @@
 ## v3.0.1114
 
 
-- Chore - additionalPodConfig on agent-proxy and agent-trigger @chpl (#19188)
+- Chore - additionalPodConfig on agent-proxy and agent-trigger @chpl (#19188)&nbsp;
+## v3.0.1128
+- Stability Improvement
