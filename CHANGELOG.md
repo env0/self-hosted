@@ -904,4 +904,8 @@
 ## v3.0.1159
 
 
+- Chore: Make API GW of SaaS in prod regional @Yossi-kerner (#19529)&nbsp;
+## v3.0.1159
+
+
 - Chore: Make API GW of SaaS in prod regional @Yossi-kerner (#19529)
