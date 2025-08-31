@@ -896,4 +896,8 @@
 ## v3.0.1141
 
 
-- Chore: change deployment timeout to 1 hour @HeverFarber (#19379)
+- Chore: change deployment timeout to 1 hour @HeverFarber (#19379)&nbsp;
+## v3.0.1159
+
+
+- Chore: Make API GW of SaaS in prod regional @Yossi-kerner (#19529)
