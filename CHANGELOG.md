@@ -939,4 +939,11 @@ We’ll share a detailed update well in advance.
 - ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
 - Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
 - eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
+- eng-198: Install packages on demend @HeverFarber (#19477)&nbsp;
+## v3.0.1160
+
+
+- ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
+- Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
+- eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
 - eng-198: Install packages on demend @HeverFarber (#19477)
