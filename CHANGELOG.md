@@ -425,6 +425,7 @@
 
 
 - Feat: Handle multiple approval policies in deployment @liranfarage89 (#15163)
+
 &nbsp;
 ## v3.0.706
 
@@ -910,9 +911,17 @@
 
 - Chore: Make API GW of SaaS in prod regional @Yossi-kerner (#19529)&nbsp;
 ## v3.0.1160
+🚨 Important Change
 
+Starting with this version, deployments will automatically download and install any required tools during runtime.
+You no longer need to rely on preinstalled binaries.
 
-- ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
-- Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
-- eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
-- eng-198: Install packages on demend @HeverFarber (#19477)
+Examples:
+* Kubernetes users: kubectl (and helm if needed) will be installed automatically.
+* CloudFormation users: the AWS CLI will be downloaded as part of the deployment.
+* Most IaC tools (such as Terraform) are not affected, since they already download the required versions during runtime.
+
+🔮 Coming Soon
+
+In the next release, no tools will be preinstalled by default.
+We’ll share a detailed update well in advance.
