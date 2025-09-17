@@ -954,4 +954,8 @@ We’ll share a detailed update well in advance.
 ## v3.0.1163
 
 
-- eng-284: Deployment Image v4.0.0 @HeverFarber (#19555)
+- eng-284: Deployment Image v4.0.0 @HeverFarber (#19555)&nbsp;
+## v3.0.1167
+
+
+- ENG-75 - Add tag based retention @eranelbaz (#19603)
