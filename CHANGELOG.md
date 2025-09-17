@@ -962,4 +962,8 @@ We’ll share a detailed update well in advance.
 ## v3.0.1167
 
 
+- ENG-75 - Add tag based retention @eranelbaz (#19603)&nbsp;
+## v3.0.1167
+
+
 - ENG-75 - Add tag based retention @eranelbaz (#19603)
