@@ -970,4 +970,8 @@ We’ll share a detailed update well in advance.
 ## v3.0.1172
 
 
-- fix: resolve helm schema validation errors on newer versions @alonnoga (#19699)
+- fix: resolve helm schema validation errors on newer versions @alonnoga (#19699)&nbsp;
+## v4.0.0
+
+
+- eng-396: remove-old-image-pipeline @HeverFarber (#19629)
