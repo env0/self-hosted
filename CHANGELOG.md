@@ -972,6 +972,23 @@ We’ll share a detailed update well in advance.
 
 - fix: resolve helm schema validation errors on newer versions @alonnoga (#19699)&nbsp;
 ## v4.0.0
+🚨 Breaking Changes
 
+Starting with this version, no tools will be preinstalled by default.
+This change may affect your existing custom flows.
 
-- eng-396: remove-old-image-pipeline @HeverFarber (#19629)
+If you require additional tools, you can either:
+* Install them during runtime, or
+* Extend the base image in advance.
+
+👉 For detailed instructions, please see our [documentation](https://docs.env0.com/docs/extending-deployment-image).
+
+ℹ️ Tool Download Sources
+Tools are downloaded from a few external sources. If your agent is restricted by a firewall, please ensure the following domains are accessible:
+
+* **github.com**
+* **amazonaws.com**
+* **dl.google.com**
+* **get.helm.sh**
+* **dl.k8s.io**
+* **releases.hashicorp.com**
