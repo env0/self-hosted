@@ -992,3 +992,9 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 * **get.helm.sh**
 * **dl.k8s.io**
 * **releases.hashicorp.com**
+&nbsp;
+## v4.0.3
+
+
+- Feat: Add OnRepositoryAnalysisComplete message handler + queue @liranfarage89 (#19710)
+- eng-439: pull not_started tasks + create context url @HeverFarber (#19684)
