@@ -997,4 +997,10 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 
 
 - Feat: Add OnRepositoryAnalysisComplete message handler + queue @liranfarage89 (#19710)
-- eng-439: pull not_started tasks + create context url @HeverFarber (#19684)
+- eng-439: pull not_started tasks + create context url @HeverFarber (#19684)&nbsp;
+## v4.0.7
+
+
+- Chore - dynamic placeholder priority class naming to prevent clash @chpl (#19810)
+- Chore -  use cluster over provisioning instead of worm pods @chpl (#19786)
+- Chore: agent level throttling - agent trigger @chpl (#19725)
