@@ -1009,4 +1009,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 
 - Chore - dynamic placeholder priority class naming to prevent clash @chpl (#19810)
 - Chore -  use cluster over provisioning instead of worm pods @chpl (#19786)
-- Chore: agent level throttling - agent trigger @chpl (#19725)
+- Chore: agent level throttling - agent trigger @chpl (#19725)&nbsp;
+## v4.0.8
+
+
+- Disable PITR in secondary regions for deployment logs DDB tables @chpl (#19816)
