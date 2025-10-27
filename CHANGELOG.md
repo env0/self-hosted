@@ -1013,4 +1013,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.8
 
 
-- Disable PITR in secondary regions for deployment logs DDB tables @chpl (#19816)
+- Disable PITR in secondary regions for deployment logs DDB tables @chpl (#19816)&nbsp;
+## v4.0.9
+
+
+- Chore: disable-logs-for-money-saving @HeverFarber (#19813)
