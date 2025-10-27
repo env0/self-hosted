@@ -1021,4 +1021,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.9
 
 
+- Chore: disable-logs-for-money-saving @HeverFarber (#19813)&nbsp;
+## v4.0.9
+
+
 - Chore: disable-logs-for-money-saving @HeverFarber (#19813)
