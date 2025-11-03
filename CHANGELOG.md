@@ -1037,4 +1037,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.12
 
 
-- Chore - create priority class only if agent throttling is enabled @chpl (#19857)
+- Chore - create priority class only if agent throttling is enabled @chpl (#19857)&nbsp;
+## v4.0.14
+
+
+- [eng-578]: high-and-critical-vulnerabilities-reduction-from-latest @HeverFarber (#19872)
