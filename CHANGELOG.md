@@ -1045,4 +1045,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.14
 
 
+- [eng-578]: high-and-critical-vulnerabilities-reduction-from-latest @HeverFarber (#19872)&nbsp;
+## v4.0.14
+
+
 - [eng-578]: high-and-critical-vulnerabilities-reduction-from-latest @HeverFarber (#19872)
