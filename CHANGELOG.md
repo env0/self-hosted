@@ -1061,4 +1061,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.20
 
 
-- [ENG-541] Chore: warm pods for agent throttling @chpl (#19858)
+- [ENG-541] Chore: warm pods for agent throttling @chpl (#19858)&nbsp;
+## v4.0.27
+
+
+- [ENG-700] Chore: rename BE from code insights to code optimizer @eranelbaz (#20017)
