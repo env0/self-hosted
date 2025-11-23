@@ -1065,4 +1065,9 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.27
 
 
-- [ENG-700] Chore: rename BE from code insights to code optimizer @eranelbaz (#20017)
+- [ENG-700] Chore: rename BE from code insights to code optimizer @eranelbaz (#20017)&nbsp;
+## v4.0.29
+
+
+- [ENG-482] Chore: Move same API-Gateway data sources to root module @chpl (#20051)
+- [ENG-652] Chore: Default agents to use new EntryPoint , supporting Code Optimizer (K8S agent) @RLRabinowitz (#20043)
