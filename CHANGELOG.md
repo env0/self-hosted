@@ -1070,4 +1070,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 
 
 - [ENG-482] Chore: Move same API-Gateway data sources to root module @chpl (#20051)
-- [ENG-652] Chore: Default agents to use new EntryPoint , supporting Code Optimizer (K8S agent) @RLRabinowitz (#20043)
+- [ENG-652] Chore: Default agents to use new EntryPoint , supporting Code Optimizer (K8S agent) @RLRabinowitz (#20043)&nbsp;
+## v4.0.34
+
+
+- [ENG-776] Chore: post EKS migration cleanup @chpl (#20113)
