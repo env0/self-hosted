@@ -1078,4 +1078,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.34
 
 
-- [ENG-776] Chore: post EKS migration cleanup @chpl (#20113)
+- [ENG-776] Chore: post EKS migration cleanup @chpl (#20113)&nbsp;
+## v4.0.44
+
+
+- [ENG-806] Chore: switch-to-new-install-iac-for-shag @HeverFarber (#20177)
