@@ -1082,4 +1082,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.44
 
 
-- [ENG-806] Chore: switch-to-new-install-iac-for-shag @HeverFarber (#20177)
+- [ENG-806] Chore: switch-to-new-install-iac-for-shag @HeverFarber (#20177)&nbsp;
+## v4.0.45
+
+
+- [ENG-807] Chore: Remove deprecated IaC version management code @HeverFarber (#20192)
