@@ -1090,4 +1090,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.46
 
 
+- [ENG-775] Feature: Add async handling for CloudToCodeResourceBlock AI prompt @GiliFaroEnv0 (#20171)&nbsp;
+## v4.0.46
+
+
 - [ENG-775] Feature: Add async handling for CloudToCodeResourceBlock AI prompt @GiliFaroEnv0 (#20171)
