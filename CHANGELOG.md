@@ -1098,4 +1098,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.49
 
 
-- [ENG-785] Feature: Run drift detection tasks on separate node pool @chpl (#20157)
+- [ENG-785] Feature: Run drift detection tasks on separate node pool @chpl (#20157)&nbsp;
+## v4.0.55
+
+
+- [ENG-821] Chore: remove-old-agent-trigger-old-entry-point @HeverFarber (#20228)
