@@ -992,7 +992,6 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 * **get.helm.sh**
 * **dl.k8s.io**
 * **releases.hashicorp.com**
-
 &nbsp;
 ## v4.0.3
 
@@ -1104,3 +1103,11 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 
 
 - [ENG-821] Chore: remove-old-agent-trigger-old-entry-point @HeverFarber (#20228)&nbsp;
+## v4.0.64
+
+
+- [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
+## v4.0.64
+
+
+- [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)
