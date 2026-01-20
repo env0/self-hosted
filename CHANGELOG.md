@@ -1112,4 +1112,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 
 - [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
 ## v4.0.68
-- Stability Improvement
+- Stability Improvement&nbsp;
+## v4.0.70
+
+
+- [ENG-937] Chore: Pre signed s3 url to manage state [backend-side] @HeverFarber (#20405)
