@@ -1116,4 +1116,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.70
 
 
-- [ENG-937] Chore: Pre signed s3 url to manage state [backend-side] @HeverFarber (#20405)
+- [ENG-937] Chore: Pre signed s3 url to manage state [backend-side] @HeverFarber (#20405)&nbsp;
+## v4.0.72
+
+
+- [ENG-937] Chore: Pre signed s3 url to manage state [agent-side] @HeverFarber (#20406)
