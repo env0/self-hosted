@@ -1120,4 +1120,8 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.72
 
 
-- [ENG-937] Chore: Pre signed s3 url to manage state [agent-side] @HeverFarber (#20406)
+- [ENG-937] Chore: Pre signed s3 url to manage state [agent-side] @HeverFarber (#20406)&nbsp;
+## v4.0.75
+
+
+- [ENG-983] Chore: model-create-shared-deployment-logs-ddb-table @HeverFarber (#20443)
