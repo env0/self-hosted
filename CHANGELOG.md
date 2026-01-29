@@ -1128,4 +1128,7 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 ## v4.0.75
 
 
-- [ENG-983] Chore: model-create-shared-deployment-logs-ddb-table @HeverFarber (#20443)
+- [ENG-983] Chore: model-create-shared-deployment-logs-ddb-table @HeverFarber (#20443)&nbsp;
+## v4.0.76
+
+Feature: Improved release notes with structured changelogs for self-hosted agent updates, (#20473)
