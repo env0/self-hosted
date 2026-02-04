@@ -1131,4 +1131,7 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 - [ENG-983] Chore: model-create-shared-deployment-logs-ddb-table @HeverFarber (#20443)&nbsp;
 ## v4.0.76
 
-Feature: Improved release notes with structured changelogs for self-hosted agent updates, (#20473)
+Feature: Improved release notes with structured changelogs for self-hosted agent updates, (#20473)&nbsp;
+## v4.0.77
+
+Fix: Eliminated 2 HIGH severity CVEs in env0-core Docker image, (#20494)
