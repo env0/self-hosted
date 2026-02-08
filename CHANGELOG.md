@@ -1,88 +1,88 @@
 ## v4.0.77
 
-Fix: Eliminated 2 HIGH severity CVEs in env0-core Docker image, (#20494)
+Fix: Eliminated 2 HIGH severity CVEs in env0-core Docker image (#20494)
 ## v4.0.76
 
-Feature: Improved release notes with structured changelogs for self-hosted agent updates, (#20473)&nbsp;
+Feature: Improved release notes with structured changelogs for self-hosted agent updates (#20473)&nbsp;
 ## v4.0.75
 
 
-- [ENG-983] Chore: model-create-shared-deployment-logs-ddb-table @HeverFarber (#20443)&nbsp;
+- Chore: model-create-shared-deployment-logs-ddb-table (#20443)&nbsp;
 ## v4.0.75
 
 
-- [ENG-983] Chore: model-create-shared-deployment-logs-ddb-table @HeverFarber (#20443)&nbsp;
+- Chore: model-create-shared-deployment-logs-ddb-table (#20443)&nbsp;
 ## v4.0.72
 
 
-- [ENG-937] Chore: Pre signed s3 url to manage state [agent-side] @HeverFarber (#20406)&nbsp;
+- Chore: Pre signed s3 url to manage state [agent-side] (#20406)&nbsp;
 ## v4.0.70
 
 
-- [ENG-937] Chore: Pre signed s3 url to manage state [backend-side] @HeverFarber (#20405)&nbsp;
+- Chore: Pre signed s3 url to manage state [backend-side] @HeverFarber (#20405)&nbsp;
 ## v4.0.68
 - Stability Improvement&nbsp;
 ## v4.0.64
 
 
-- [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
+- Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
 ## v4.0.64
 
 
-- [ENG-906] Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
+- Chore: ddb-based-vcs-proxy - Part 1 (backend) @HeverFarber (#20327)&nbsp;
 ## v4.0.55
 
 
-- [ENG-821] Chore: remove-old-agent-trigger-old-entry-point @HeverFarber (#20228)&nbsp;
+- Chore: remove-old-agent-trigger-old-entry-point @HeverFarber (#20228)&nbsp;
 ## v4.0.49
 
 
-- [ENG-785] Feature: Run drift detection tasks on separate node pool @chpl (#20157)&nbsp;
+- Feature: Run drift detection tasks on separate node pool @chpl (#20157)&nbsp;
 ## v4.0.46
 
 
-- [ENG-775] Feature: Add async handling for CloudToCodeResourceBlock AI prompt @GiliFaroEnv0 (#20171)&nbsp;
+- Feature: Add async handling for CloudToCodeResourceBlock AI prompt @GiliFaroEnv0 (#20171)&nbsp;
 ## v4.0.46
 
 
-- [ENG-775] Feature: Add async handling for CloudToCodeResourceBlock AI prompt @GiliFaroEnv0 (#20171)&nbsp;
+- Feature: Add async handling for CloudToCodeResourceBlock AI prompt @GiliFaroEnv0 (#20171)&nbsp;
 ## v4.0.45
 
 
-- [ENG-807] Chore: Remove deprecated IaC version management code @HeverFarber (#20192)&nbsp;
+- Chore: Remove deprecated IaC version management code @HeverFarber (#20192)&nbsp;
 ## v4.0.44
 
 
-- [ENG-806] Chore: switch-to-new-install-iac-for-shag @HeverFarber (#20177)&nbsp;
+- Chore: switch-to-new-install-iac-for-shag @HeverFarber (#20177)&nbsp;
 ## v4.0.34
 
 
-- [ENG-776] Chore: post EKS migration cleanup @chpl (#20113)&nbsp;
+- Chore: post EKS migration cleanup @chpl (#20113)&nbsp;
 ## v4.0.34
 
 
-- [ENG-776] Chore: post EKS migration cleanup @chpl (#20113)&nbsp;
+- Chore: post EKS migration cleanup @chpl (#20113)&nbsp;
 ## v4.0.29
 
 
-- [ENG-482] Chore: Move same API-Gateway data sources to root module @chpl (#20051)
-- [ENG-652] Chore: Default agents to use new EntryPoint , supporting Code Optimizer (K8S agent) @RLRabinowitz (#20043)&nbsp;
+- Chore: Move same API-Gateway data sources to root module @chpl (#20051)
+- Chore: Default agents to use new EntryPoint , supporting Code Optimizer (K8S agent) @RLRabinowitz (#20043)&nbsp;
 ## v4.0.27
 
 
-- [ENG-700] Chore: rename BE from code insights to code optimizer @eranelbaz (#20017)&nbsp;
+- Chore: rename BE from code insights to code optimizer @eranelbaz (#20017)&nbsp;
 ## v4.0.20
 
 
-- [ENG-541] Chore: warm pods for agent throttling @chpl (#19858)&nbsp;
+- Chore: warm pods for agent throttling @chpl (#19858)&nbsp;
 ## v4.0.16
 
 
-- [ENG-306] Feature: Implement OnCodeGeneration API @yarden-fishler-dev (#19881)&nbsp;
+- Feature: Implement OnCodeGeneration API @yarden-fishler-dev (#19881)&nbsp;
 ## v4.0.16
 
 
-- [ENG-306] Feature: Implement OnCodeGeneration API @yarden-fishler-dev (#19881)&nbsp;
+- Feature: Implement OnCodeGeneration API @yarden-fishler-dev (#19881)&nbsp;
 ## v4.0.14
 
 
