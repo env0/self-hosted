@@ -127,27 +127,6 @@ Tools are downloaded from a few external sources. If your agent is restricted by
 
 - eng-284: Deployment Image v4.0.0 @HeverFarber (#19555)&nbsp;
 ## v3.0.1160
-
-
-- ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
-- Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
-- eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
-- eng-198: Install packages on demend @HeverFarber (#19477)&nbsp;
-## v3.0.1160
-
-
-- ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
-- Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
-- eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
-- eng-198: Install packages on demend @HeverFarber (#19477)&nbsp;
-## v3.0.1160
-
-
-- ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
-- Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
-- eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
-- eng-198: Install packages on demend @HeverFarber (#19477)&nbsp;
-## v3.0.1160
 🚨 Important Change
 
 Starting with this version, deployments will automatically download and install any required tools during runtime.
@@ -162,15 +141,14 @@ Examples:
 
 In the next release, no tools will be preinstalled by default.
 We’ll share a detailed update well in advance.
+
+Also:
+- ENG-129 Halt the deployment and do not upload working dir when we had an issue with fetching the last working dir @Yossi-kerner (#19544)
+- Chore: Read and Write ORG secrets to both Secret Manager and DDB with fallback @chpl (#19533)
+- eng 177 deployment should be consumed evenly from sqs @yarivg (#19551)
+- eng-198: Install packages on demend @HeverFarber (#19477)&nbsp;
+
 &nbsp;
-## v3.0.1159
-
-
-- Chore: Make API GW of SaaS in prod regional @Yossi-kerner (#19529)&nbsp;
-## v3.0.1159
-
-
-- Chore: Make API GW of SaaS in prod regional @Yossi-kerner (#19529)&nbsp;
 ## v3.0.1159
 
 
