@@ -1,6 +1,9 @@
+## v4.0.78
+  
+Fix: Targeted deployments: Fixed Terraform state parsing for resources with multiple quoted sections in the full resource name (#20532)&nbsp;
 ## v4.0.77
 
-Fix: Eliminated 2 HIGH severity CVEs in env0-core Docker image (#20494)
+Fix: Eliminated 2 HIGH severity CVEs in env0-core Docker image (#20494)&nbsp;
 ## v4.0.76
 
 Feature: Improved release notes with structured changelogs for self-hosted agent updates (#20473)&nbsp;
@@ -720,6 +723,7 @@ Also:
 
 - Chore add waf 2 @alonnoga (#7445)<br />
 ## v3.0.72
+
 
 
 - Chore: Update agent-chart readme @liranfarage89 (#7381)<br />
