@@ -1,3 +1,7 @@
+## v4.0.79
+
+Fix: Fixed edge-cases where causing invalid HCL markdown syntax in AI-generated drift remediation code (#20633)
+&nbsp;
 ## v4.0.78
   
 Fix: Targeted deployments: Fixed Terraform state parsing for resources with multiple quoted sections in the full resource name (#20532)&nbsp;
