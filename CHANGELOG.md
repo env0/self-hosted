@@ -1,3 +1,9 @@
+## v4.0.80
+
+Fix: Better handling of failed AI code generation in cloud-to-code (#20644)
+Fix: Added progress logging during large working directory extraction to prevent deployments appearing stuck (#20691)
+Fix: Fixed terragrunt run-all destroy being incorrectly skipped when a module plan parsing fails (#20694)
+&nbsp;
 ## v4.0.79
 
 Fix: Fixed edge-cases where causing invalid HCL markdown syntax in AI-generated drift remediation code (#20633)
