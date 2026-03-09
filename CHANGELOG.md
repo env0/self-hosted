@@ -1,9 +1,5 @@
 
 &nbsp;
-## v4.1.0
-
-Feature: Added MULTI_SELECT_LIST variable type for selecting multiple values from predefined options (#20765)
-&nbsp;
 ## v4.0.80
 
 Fix: Better handling of failed AI code generation in cloud-to-code (#20644)
@@ -743,4 +739,5 @@ Also:
 
 
 - Chore: Update agent-chart readme @liranfarage89 (#7381)<br />
+
 
