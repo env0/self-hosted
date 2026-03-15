@@ -1,3 +1,11 @@
+## v4.2.0
+
+Chore: Improve agent infrastructure security and scalability (#20722)
+Chore: Remove unused values from agent helm chart (#20783)
+Chore: Fixed security vulnerabilities in agent Docker image (#20800)
+Feature: Added MULTI_SELECT_LIST variable type for selecting multiple values from predefined options (#20765)
+Feature: Added resource visibility for Terragrunt run-all deployments (#20779)
+&nbsp;
 
 &nbsp;
 ## v4.0.80
