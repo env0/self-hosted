@@ -1,3 +1,7 @@
+## v4.2.1
+
+Fix: Fixed HIGH severity CVEs in core Docker image (#20858)
+&nbsp;
 ## v4.2.0
 
 Chore: Improve agent infrastructure security and scalability (#20722)
