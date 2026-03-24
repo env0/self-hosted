@@ -1,3 +1,8 @@
+## v5.0.0
+
+Feature: Self-service Agent Pools (#20815)
+Fix: Fixed deployment commit status check not updating to failure when a deployment times out (#20869)
+&nbsp;
 ## v4.2.1
 
 Fix: Fixed HIGH severity CVEs in core Docker image (#20858)
