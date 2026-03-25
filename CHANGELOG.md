@@ -1,3 +1,10 @@
+## v5.0.1
+
+- Chore: Enhanced job trigger metrics logging to include throttling configuration details (#20899)
+- Fix: Patched a critical security vulnerability in the agent image (#20902)
+- Fix: Backward compatibility for agent upgrades with legacy `agentKey` and `env0ApiGwKeyEncoded` configuration (#20907)
+- Fix: Fixed mirror metadata requests to respect proxy configuration in self-hosted environments (#20914)
+&nbsp;
 ## v5.0.0
 
 Feature: Self-service Agent Pools (#20815)
