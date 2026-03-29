@@ -1,3 +1,7 @@
+## v5.0.2
+
+- Fix: Fixed OPA approval policy input to include plan data for Terragrunt run-all deployments (#20909)
+&nbsp;
 ## v5.0.1
 
 - Chore: Enhanced job trigger metrics logging to include throttling configuration details (#20899)
