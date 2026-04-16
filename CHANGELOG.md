@@ -1,3 +1,12 @@
+## v5.0.3
+
+- Fix: Terragrunt run-all: Fixed pretty plan view for terragrunt >= 0.80.0 (#20648)
+- Fix: Fixed log buffer overflow by flushing logs when record threshold is reached (#20919)
+- Fix: Fixed state loss for default Terraform workspace deployments without backend configuration (#20989)
+- Fix: Fix incorrect Terraform addresses for data sources and providers without underscore in targeted deployments (#20998)
+- Chore: Resolved security vulnerabilities in deployment infrastructure base image (#20965)
+- Feature: Added ENV0_TERRATAG_FILTER environment variable to control which resource types receive cost tags (#20967)
+&nbsp;
 ## v5.0.2
 
 - Fix: Fixed OPA approval policy input to include plan data for Terragrunt run-all deployments (#20909)
