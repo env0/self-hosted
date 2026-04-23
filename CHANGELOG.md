@@ -1,3 +1,7 @@
+## v5.0.4
+
+- Chore: Upgraded dependencies to patch security advisories (#21029)
+&nbsp;
 ## v5.0.3
 
 - Fix: Terragrunt run-all: Fixed pretty plan view for terragrunt >= 0.80.0 (#20648)
