@@ -1,3 +1,10 @@
+## v5.1.0
+
+- Refactor: Improve agent version tracking (#20910)
+- Refactor: Simplified agent image build process by inlining base image dependencies (#21090)
+- Feature: Remote backend: Support saved cloud plans — tofu plan -out, tofu show, and tofu apply with saved plan files (#21028)
+- Fix: Improved deployment latency telemetry (#21085)
+&nbsp;
 ## v5.0.4
 
 - Chore: Upgraded dependencies to patch security advisories (#21029)
