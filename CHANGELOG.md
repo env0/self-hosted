@@ -1,3 +1,7 @@
+## v5.1.1
+
+- Fix: Preserve pretty plan output changes with empty string values (#21069)
+&nbsp;
 ## v5.1.0
 
 - Refactor: Improve agent version tracking (#20910)
