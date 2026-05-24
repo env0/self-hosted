@@ -1,3 +1,10 @@
+## v5.1.2
+
+- Chore: Improved reliability of VCS data handling (#21113)
+- Chore: Security improvements to agent image (#21138)
+- Fix: Fixed agent stability under repeated upstream failures (#21175)
+- Fix: Fixed Lambda timeouts when Auth0 returns rate limit errors by disabling SDK-level retry (#21176)
+&nbsp;
 ## v5.1.1
 
 - Fix: Preserve pretty plan output changes with empty string values (#21069)
