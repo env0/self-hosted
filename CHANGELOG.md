@@ -1,3 +1,8 @@
+## v5.1.3
+
+- Fix: Fixed private module READMEs larger than 1MB rendering as blank (#21208)
+- Chore: Upgraded dependencies and patched container image security advisories (#21216)
+&nbsp;
 ## v5.1.2
 
 - Chore: Improved reliability of VCS data handling (#21113)
