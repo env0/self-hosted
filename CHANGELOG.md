@@ -1,3 +1,8 @@
+## v5.1.4
+
+- Fix: Improved GCP secret retrieval reliability and error reporting (#21268)
+- Fix: Fixed Helm destroy failing when the release was already uninstalled or never existed (#21282)
+&nbsp;
 ## v5.1.3
 
 - Fix: Fixed private module READMEs larger than 1MB rendering as blank (#21208)
