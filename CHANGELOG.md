@@ -1,3 +1,9 @@
+## v5.1.5
+
+- Fix: Improved module download reliability for self-hosted VCS (#21267)
+- Fix: Fixed automated drift remediation failing to open a fix PR due to branch name collision (#21305)
+- Fix: Upgraded default AWS CLI to 2.35.5 (#21313)
+&nbsp;
 ## v5.1.4
 
 - Fix: Improved GCP secret retrieval reliability and error reporting (#21268)
