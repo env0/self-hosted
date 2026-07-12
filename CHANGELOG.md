@@ -1,3 +1,8 @@
+## v5.2.0
+
+- Feature: Added support for v2 OIDC tokens with per-cloud-provider audiences for AWS, Azure, GCP, and Vault credentials (#21363)
+- Fix: Fixed agent image build failure by updating curl to version 8.21.0-r0 (#21413)
+&nbsp;
 ## v5.1.5
 
 - Fix: Improved module download reliability for self-hosted VCS (#21267)
