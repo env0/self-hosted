@@ -1,3 +1,9 @@
+## v5.2.1
+
+- Fix: Fixed Terragrunt run-all destroy to execute modules in correct reverse dependency order (#21365)
+- Fix: Fixed Ansible deployments getting stuck when approval is required with check step skipped (#21409)
+- Fix: Fixed agent image build failures caused by Alpine edge removing the pinned curl and OpenSSH package versions (#21438)
+&nbsp;
 ## v5.2.0
 
 - Feature: Added support for v2 OIDC tokens with per-cloud-provider audiences for AWS, Azure, GCP, and Vault credentials (#21363)
