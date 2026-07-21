@@ -1,3 +1,10 @@
+## v5.2.2
+
+- Fix: Fixed Kubernetes DNS naming violations in agent Helm chart resource names (#21459)
+- Fix: Fixed GitLab.com and GitLab Enterprise merge request plan checks getting stuck on "Running" after the plan completed successfully (#21461)
+- Fix: Fixed the agent task poller crashing repeatedly when agent credentials are rejected (#21463)
+- Chore: Upgraded the deployment agent base image and removed unused packages to improve security (#21462)
+&nbsp;
 ## v5.2.1
 
 - Fix: Fixed Terragrunt run-all destroy to execute modules in correct reverse dependency order (#21365)
