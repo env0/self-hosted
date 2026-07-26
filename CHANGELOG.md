@@ -1,3 +1,9 @@
+## v5.2.3
+
+- Fix: Fixed state file migration between agent pools and improved decryption resilience (#21446)
+- Fix: Retry git clone with a re-resolved VCS token when authentication fails, preventing intermittent clone failures during concurrent deployments (#21483)
+- Fix: Retry git clone on transient DNS resolution errors (#21493)
+&nbsp;
 ## v5.2.2
 
 - Fix: Fixed Kubernetes DNS naming violations in agent Helm chart resource names (#21459)
