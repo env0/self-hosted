@@ -1,3 +1,15 @@
+## v5.3.0
+
+- Feature: The agent now uploads the Terraform/OpenTofu plan JSON (with sensitive values masked) after a successful plan, enabling download via API for external policy tools (#21507)
+- Feature: Include the member's role, name and email on the internal userAddedToOrganization event (#21547)
+- Feature: Organization membership and role changes made by SSO logins now take effect immediately instead of waiting for the nightly sync (#21548)
+- Fix: Retry Terraform/OpenTofu init on transient provider download errors from the provider mirror (#21519)
+- Fix: Improve deployment reliability when the provider mirror is temporarily unavailable (#21520)
+- Fix: Retry OIDC token minting when Auth0 rate-limits, instead of failing the deployment with a misleading "not found" error (#21522)
+- Fix: Fixed HCL variables with null value being incorrectly quoted as strings (#21546)
+- Fix: Fixed task runs failing with an internal error when the environment has no working directory archive (#21645)
+- Chore: Reduced working directory archive size (#21557)
+&nbsp;
 ## v5.2.3
 
 - Fix: Fixed state file migration between agent pools and improved decryption resilience (#21446)
