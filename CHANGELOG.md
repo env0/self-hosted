@@ -1,3 +1,20 @@
+## v5.4.0
+
+- Fix: Fixed task deployments on root path templates failing due to symlink loop (#21623)
+- Fix: Drift fix pull requests no longer corrupt a Terraform file when the original resource block cannot be located, and now name every drifted resource they left unchanged along with the reason (#21627)
+- Fix: Drift fix pull requests no longer overwrite commits someone else pushed to the fix branch, and each environment's fix branch is now named after its full environment id so two environments in one repository can no longer close each other's pull requests (#21628)
+- Fix: Fixed agent status and version reporting for ephemeral self-hosted agents (#21649)
+- Fix: Fixed AI-generated code reaching drift-remediation and code-fix pull requests with a markdown fence language tag (e.g. hcl) as the first line, producing invalid Terraform (#21654)
+- Fix: Improve environment resource name handling (prevent resources count mismatch) (#21667)
+- Fix: Restored the original git branch after drift detection and stopped formatting-only AI fixes from opening pull requests (#21690)
+- Fix: Cloud-to-code drift fixes no longer write masked secret placeholders into customer Terraform; resources whose only drift is a sensitive value are skipped and named in the PR (#21694)
+- Fix: Fixed transient failures when resolving AWS SSM secret references with OIDC on self-hosted agents (#21711)
+- Fix: Fixed deploy tasks with S3 log forwarding failing after credential expiry (#21716)
+- Fix: Finished the code-issue fix job cleanly instead of failing when the AI fix is a no-op (#21720)
+- Fix: Fixed code optimizer fix pull requests failing when the analyzed repository has a branch named envzero (#21721)
+- Fix: Stop requiring forced approval when the plan has no changes (#21730)
+- Fix: Fix "internal failure" deployment agent crashes on module tests with long single-line JSON output (#21737)
+&nbsp;
 ## v5.3.0
 
 - Feature: The agent now uploads the Terraform/OpenTofu plan JSON (with sensitive values masked) after a successful plan, enabling download via API for external policy tools (#21507)
