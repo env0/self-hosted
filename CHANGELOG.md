@@ -1,3 +1,11 @@
+## v5.4.1
+
+- Fix: Fixed OpenTofu apply and destroy to re-pass the -var-file from ENV0_TERRAFORM_CONFIG_FILE_PATH so saved plans no longer fail with a variable mismatch (#21456)
+- Fix: Retry transient Lambda errors in the deployment state machine (#21806)
+- Fix: Keep sensitive attributes the provider withholds in the pretty plan (#21808)
+- Feature: Email org admins at 80% and 100% of monthly run usage (#21817)
+- Chore: Bump bundled AWS CLI to 2.36.21 and Azure CLI 2.89.1 (#21820)
+&nbsp;
 ## v5.4.0
 
 - Fix: Fixed task deployments on root path templates failing due to symlink loop (#21623)
