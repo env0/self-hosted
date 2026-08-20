@@ -1,3 +1,13 @@
+## v5.5.0
+
+- Fix: Fixed transient Vault OIDC authentication failures by adding automatic retry logic (#21868)
+- Fix: Fixed commit status incorrectly reverting to pending after plan completion in Bitbucket PR plans (#21883)
+- Fix: Reduced S3 waiter timeout to prevent agent-down webhook alerts from flooding monitoring (#21885)
+- Fix: Deployments using AWS OIDC no longer fail when AWS STS is briefly unable to verify the identity token (#21926)
+- Fix: Fixed deployments failing when log forwarding transport encounters errors (#21927)
+- Fix: Fixed self-hosted agent deployments failing on non-Kubernetes runtimes like Azure Container Apps (#21948)
+- Feature: Added self-service deletion for SAML and Azure AD SSO connections (#21932)
+&nbsp;
 ## v5.4.1
 
 - Fix: Fixed OpenTofu apply and destroy to re-pass the -var-file from ENV0_TERRAFORM_CONFIG_FILE_PATH so saved plans no longer fail with a variable mismatch (#21456)
