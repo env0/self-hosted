@@ -1,3 +1,7 @@
+## v5.5.1
+
+- Fix: Improve stability of bulk deployments with GitHub Enterprise (#22038)
+&nbsp;
 ## v5.5.0
 
 - Fix: Fixed transient Vault OIDC authentication failures by adding automatic retry logic (#21868)
