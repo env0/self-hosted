@@ -1,3 +1,11 @@
+## v5.5.2
+
+- Fix: A module test run with no test files now logs "No test files found." instead of announcing tests that never start (#21991)
+- Fix: Agent proxy errors now include the real VCS response body, and the agent always uploads a proxy response instead of leaving the backend to time out (#22050)
+- Fix: Fixed module test crashes when .tftest.hcl files contain no run blocks (#22074)
+- Fix: Module registry now reports an unreachable VCS or self-hosted agent as a clear 424 instead of a generic 500 (#22129)
+- Fix: Fixed Vault OIDC installation on ARM64 runners (#22180)
+&nbsp;
 ## v5.5.1
 
 - Fix: Improve stability of bulk deployments with GitHub Enterprise (#22038)
