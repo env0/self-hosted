@@ -1,3 +1,9 @@
+## v5.5.3
+
+- Fix: Improve self-hosted VCS proxy error messages by including the underlying error (#22190)
+- Fix: Fixed deployments failing on a transient log forwarding error (#22201)
+- Feature: Added opt-in environment variable to skip Pulumi preview refresh (#22211)
+&nbsp;
 ## v5.5.2
 
 - Fix: A module test run with no test files now logs "No test files found." instead of announcing tests that never start (#21991)
