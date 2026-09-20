@@ -1,3 +1,7 @@
+## v5.5.4
+
+- Fix: Fix a 403 error when deploying an environment that inherits a variable set from a parent project as a user scoped only to a sub-project (#22213)
+&nbsp;
 ## v5.5.3
 
 - Fix: Improve self-hosted VCS proxy error messages by including the underlying error (#22190)
