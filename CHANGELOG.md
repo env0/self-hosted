@@ -1,3 +1,15 @@
+## v5.5.5
+
+- Fix: Fixed race condition in VCS connection creation to enforce uniqueness (#22214)
+- Fix: Fixed Auth0 rate limits being misreported as missing Terraform deployer tokens (#22295)
+- Fix: Authorization headers sent as arrays are now redacted in logs (#22296)
+- Fix: Improved reliability of git clone operations by retrying transient VCS host errors (#22297)
+- Fix: Fixed OpenTofu provider download retries for transient failures (#22298)
+- Fix: Improved reliability of package installation by adding retry logic to binary cache downloads (#22300)
+- Fix: Prevented cloud-to-code runs on unsupported VCS providers to avoid wasting drift analysis and model calls (#22314)
+- Fix: Fixed repository access verification for GitHub Enterprise templates (#22316)
+- Fix: Fixed Azure DevOps environment creation for legacy visualstudio.com organizations whose project name contains a space (#22352)
+&nbsp;
 ## v5.5.4
 
 - Fix: Fix a 403 error when deploying an environment that inherits a variable set from a parent project as a user scoped only to a sub-project (#22213)
