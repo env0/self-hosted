@@ -1,3 +1,13 @@
+## v5.5.6
+
+- Fix: Fixed deployments that hung while saving the working directory when it contained hardlinked files. Saving now logs compression progress and fails when it stops making progress, instead of running until the job timeout. (#22387)
+- Fix: Fixed helm test failures in env0-agent chart by checking for correct deployment entry point (#22437)
+- Fix: Fixed agent gateway retries firing back to back with no backoff, and drift fix pull requests not being counted as opened when their creation was retried (#22466)
+- Fix: Fixed agent scaling issue by adding pendingAndRunningCount to queue-state endpoint (#22478)
+- Fix: Improved retry logic for provider downloads that timeout or encounter connection issues (#22496)
+- Fix: Cloud-to-code no longer attempts fixes for drift caused by state changes or version updates outside deployments (#22552)
+- Fix: Patched security advisories in deployment agent base image (#22625)
+&nbsp;
 ## v5.5.5
 
 - Fix: Fixed race condition in VCS connection creation to enforce uniqueness (#22214)
