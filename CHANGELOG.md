@@ -1,3 +1,10 @@
+## v5.5.7
+
+- Fix: Fixed identifiers in agent logs that could be partially obscured (#22608)
+- Fix: Masked secret-named fields in logger and tracer labels to prevent sensitive values from reaching external monitoring systems (#22632)
+- Feature: Pulumi preview, up and destroy accept custom CLI args via ENV0_PULUMI_CLI_ARGS_<command> (#22614)
+- Chore: Updated terratag to 0.8.0 to support OpenTofu .tofu files (#22631)
+&nbsp;
 ## v5.5.6
 
 - Fix: Fixed deployments that hung while saving the working directory when it contained hardlinked files. Saving now logs compression progress and fails when it stops making progress, instead of running until the job timeout. (#22387)
