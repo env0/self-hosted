@@ -1,3 +1,16 @@
+## v5.5.8
+
+- Chore: Removed the outdated OS-level pip (CVE-2026-13346) from the agent image. pip, pip3 and python3 -m pip keep using the agent's pinned pip (#22672)
+- Fix: Restored the agent name, agent version and pod name in the deployment log's variables step for self-hosted agents (#22733)
+- Fix: Improved masking of sensitive values in agent logs (#22749)
+- Fix: Improved error message for unsupported custom flow file versions (#22758)
+- Fix: Improved reliability of deployment log uploads (#22788)
+- Fix: Improved reliability of pinned Git references by retrying transient fetch and checkout errors (#22801)
+- Fix: Improved agent proxy performance by caching GitHub Enterprise installation ID lookups for 5 minutes (#22805)
+- Fix: Explained the cause and the fix when the env zero GitHub App has no access to the template repository during Git Clone (#22835)
+- Fix: Upgraded agent dependencies to patch security advisories (#22944)
+- Feature: Added support for Infracost CLI v2.x installations from its new repository (#22784)
+&nbsp;
 ## v5.5.7
 
 - Fix: Fixed identifiers in agent logs that could be partially obscured (#22608)
