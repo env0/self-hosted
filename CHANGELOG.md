@@ -1,3 +1,9 @@
+## v5.5.9
+
+- Feature: GitHub Enterprise branches and tags are now listed through the agent, so templates and deployments offer a branch/tag dropdown (#22773)
+- Fix: Showed OpenTofu and Terraform forget actions in plans, so resources removed from state without being destroyed no longer appear as "no changes" (#22888)
+- Fix: Upgraded Node.js to 24.22.1 and terratag to 0.8.1, which no longer trust the compromised eMudhra intermediate CAs (#23041)
+&nbsp;
 ## v5.5.8
 
 - Chore: Removed the outdated OS-level pip (CVE-2026-13346) from the agent image. pip, pip3 and python3 -m pip keep using the agent's pinned pip (#22672)
