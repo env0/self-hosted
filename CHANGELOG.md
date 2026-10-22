@@ -1,3 +1,9 @@
+## v5.5.10
+
+- Fix: Upgraded pip to 26.2.2, which no longer trusts the compromised eMudhra CA (#23073)
+- Fix: Upgraded the Azure CLI to 2.91.0, which bundles certifi 2026.10.19 and no longer trusts the compromised eMudhra CA (#23074)
+- Fix: Upgraded Checkov to 3.3.30, which no longer trusts the compromised eMudhra intermediate CAs (#23075)
+&nbsp;
 ## v5.5.9
 
 - Feature: GitHub Enterprise branches and tags are now listed through the agent, so templates and deployments offer a branch/tag dropdown (#22773)
