@@ -1,3 +1,7 @@
+## v5.5.11
+
+- Fix: Improved masking of custom secrets in deployment logs (#23053)
+&nbsp;
 ## v5.5.10
 
 - Fix: Upgraded pip to 26.2.2, which no longer trusts the compromised eMudhra CA (#23073)
