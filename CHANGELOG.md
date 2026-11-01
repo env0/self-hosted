@@ -1,3 +1,12 @@
+## v5.5.12
+
+- Fix: Fixed provider installation retry logic to handle checksum mismatches from provider mirrors (#23197)
+- Fix: Refreshed agent Alpine packages daily and pinned OpenSSH to patch security advisories (#23204)
+- Fix: Fixed drift detection incorrectly flagging OpenTofu ephemeral resources as changes (#23282)
+- Feature: Reduced deployment run duration by preinstalling gcloud in the agent image (#23210)
+- Feature: Optimized deployment agent pod exit timing to reduce run duration by ~9 seconds (#23212)
+- Feature: Show which custom flow ran, with its repository file path and commit, in the load-spec deployment step for organizations with repository custom flow controls enabled (#23259)
+&nbsp;
 ## v5.5.11
 
 - Fix: Improved masking of custom secrets in deployment logs (#23053)
