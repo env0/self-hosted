@@ -1,3 +1,10 @@
+## v5.6.0
+
+- Fix: Fixed commit status checks staying pending when a deployment fails after checking out the code (#23267)
+- Feature: Run the repository env0.yml that env0 sends for a pull request from that file's folder, so organizations that limit repository custom flows to verified users can use them with a self-hosted agent (#23280)
+- Feature: Added a DynamoDB table to the shared stack for upcoming access revocation work; the agent is unchanged (#23285)
+- Feature: Added the writer for the access table to the shared stack; the agent is unchanged (#23345)
+&nbsp;
 ## v5.5.12
 
 - Fix: Fixed provider installation retry logic to handle checksum mismatches from provider mirrors (#23197)
