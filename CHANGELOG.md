@@ -1,3 +1,8 @@
+## v5.6.1
+
+- Feature: Log forwarding destinations now show delivery failure warnings on the Integrations card (#23374)
+- Feature: Deleting an API key now ends its tokens on the next request; the agent is unchanged (#23379)
+&nbsp;
 ## v5.6.0
 
 - Fix: Fixed commit status checks staying pending when a deployment fails after checking out the code (#23267)
