@@ -1,3 +1,12 @@
+## v5.6.2
+
+- Fix: Fixed AWS OIDC role assumption for GovCloud roles to use correct STS endpoint (#22540)
+- Fix: Fixed deployments failing when a multi-select variable is empty (#23389)
+- Fix: Saved remote-backend plan JSON no longer contains raw sensitive values. Self-hosted agents must upgrade to get this fix (#23423)
+- Fix: Fixed deployments failing due to API Gateway rate limiting by retrying 429 responses (#23533)
+- Fix: Fixed the pretty plan view omitting nested "(known after apply)" values and showing unchanged list elements as modified (#23656)
+- Fix: Fixed environments showing as drifted, and deployments waiting for approval, when the plan has no changes, including Terragrunt units whose hooks write to stdout (#23677)
+&nbsp;
 ## v5.6.1
 
 - Feature: Log forwarding destinations now show delivery failure warnings on the Integrations card (#23374)
