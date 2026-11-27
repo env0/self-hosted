@@ -1,3 +1,20 @@
+## v5.6.3
+
+- Fix: Agent-trigger now labels each deployment job and pod with its task when the job starts the task, instead of the pod labelling itself; the agent-trigger Role now needs patch on batch/jobs and on pods (#23457)
+- Fix: When az or checkov is installed, pip3 and python3 in custom flows now use the agent's Python packages first and fall back to the ones bundled with those tools (#23583)
+- Fix: Improved user logs ingestion reliability under DynamoDB throttling (#23596)
+- Fix: Checkov installed in a custom agent image with STRICT_MODE now works when strictSecurityContext is enabled; in STRICT_MODE, checkov now installs under /opt/static-packages instead of /opt/packages (#23608)
+- Fix: Saved plan applies (terraform apply <planfile> through the env0 remote backend) now enforce Allow Remote Apply and project approval policies (#23735)
+- Fix: Provider downloads during terraform/tofu init that time out or return a 5xx are now retried up to 5 times, and a providerInstallation network mirror is kept when only downloads from outside the mirror, such as GitHub releases, fail (#23826)
+- Fix: Splunk log forwarding reuses HTTPS connections, so log lines are no longer lost when the collector resets connections under load (#23865)
+- Fix: Fixed deployments failing with "The security token included in the request is invalid" when the chart runs an agent image pinned with dockerImage to a version older than 5.5.0, and added a helm install warning when the dockerImage tag is older than the chart (#23949)
+- Feature: Added opt-in consent and audit logging for Ask AI in Cloud Compass organization policies (#23797)
+- Feature: The agent can now take variable files sent with a deployment, write them beside the template and pass each to OpenTofu or Terraform as -var-file. Nothing sends them yet, and deployments without them run as before (#23803)
+- Feature: Terraform and OpenTofu versions can resolve to the newest release that the code's required_version allows, and latest-allowed now follows OpenTofu's ~> rules (#23816)
+- Feature: When a drifted value comes from a variable file that environment discovery passes to the deployment, the drift-fix run names that file's path in the discovery repository instead of reporting the value's source as unknown (#23828)
+- Feature: Added Ask AI to Cloud Compass as a docked panel with page-aware suggested questions (#23901)
+- Chore: Replace the deprecated crypto-js with node:crypto for environment output encryption, keeping the encrypted format unchanged (#24115)
+&nbsp;
 ## v5.6.2
 
 - Fix: Fixed AWS OIDC role assumption for GovCloud roles to use correct STS endpoint (#22540)
